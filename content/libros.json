@@ -1,0 +1,5507 @@
+[
+  {
+    "title": "Harry Potter y la Piedra Filosofal",
+    "author": "J.K. Rowling",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y la Cámara Secreta",
+    "author": "J.K. Rowling",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y el Prisionero de Azkaban",
+    "author": "J.K. Rowling",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y el Cáliz de Fuego",
+    "author": "J.K. Rowling",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y la Orden del Fénix",
+    "author": "J.K. Rowling",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y el Misterio del Príncipe",
+    "author": "J.K. Rowling",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y las Reliquias de la Muerte",
+    "author": "J.K. Rowling",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Comunidad del Anillo",
+    "author": "J.R.R. Tolkien",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Las Dos Torres",
+    "author": "J.R.R. Tolkien",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Retorno del Rey",
+    "author": "J.R.R. Tolkien",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Juego de Tronos",
+    "author": "George R.R. Martin",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Choque de Reyes",
+    "author": "George R.R. Martin",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Tormenta de Espadas",
+    "author": "George R.R. Martin",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Festín de Cuervos",
+    "author": "George R.R. Martin",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Danza de Dragones",
+    "author": "George R.R. Martin",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El León, la Bruja y el Armario",
+    "author": "C.S. Lewis",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Príncipe Caspian",
+    "author": "C.S. Lewis",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Travesía del Viajero del Alba",
+    "author": "C.S. Lewis",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Silla de Plata",
+    "author": "C.S. Lewis",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Caballo y el Muchacho",
+    "author": "C.S. Lewis",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Sobrino del Mago",
+    "author": "C.S. Lewis",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Última Batalla",
+    "author": "C.S. Lewis",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Mistborn: El Imperio Final",
+    "author": "Brandon Sanderson",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Pozo de la Ascensión",
+    "author": "Brandon Sanderson",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Héroe de las Eras",
+    "author": "Brandon Sanderson",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Camino de los Reyes",
+    "author": "Brandon Sanderson",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Palabras Radiantes",
+    "author": "Brandon Sanderson",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Juramentada",
+    "author": "Brandon Sanderson",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Nombre del Viento",
+    "author": "Patrick Rothfuss",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Temor de un Hombre Sabio",
+    "author": "Patrick Rothfuss",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Un Mago de Terramar",
+    "author": "Ursula K. Le Guin",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Las Tumbas de Atuan",
+    "author": "Ursula K. Le Guin",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Costa Más Lejana",
+    "author": "Ursula K. Le Guin",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Eldest",
+    "author": "Christopher Paolini",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Brisingr",
+    "author": "Christopher Paolini",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Legado",
+    "author": "Christopher Paolini",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Percy Jackson y el Ladrón del Rayo",
+    "author": "Rick Riordan",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Percy Jackson y el Mar de los Monstruos",
+    "author": "Rick Riordan",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Percy Jackson y la Maldición del Titán",
+    "author": "Rick Riordan",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Percy Jackson y la Batalla del Laberinto",
+    "author": "Rick Riordan",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Percy Jackson y el Último Héroe del Olimpo",
+    "author": "Rick Riordan",
+    "genre": "fantasia"
+  },
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Stardust",
+    "author": "Neil Gaiman",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Libro del Cementerio",
+    "author": "Neil Gaiman",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Buenos Presagios",
+    "author": "Neil Gaiman y Terry Pratchett",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Color de la Magia",
+    "author": "Terry Pratchett",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Luz Fantástica",
+    "author": "Terry Pratchett",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Mort",
+    "author": "Terry Pratchett",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Brujerías",
+    "author": "Terry Pratchett",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Dragones del Otoño Crepuscular",
+    "author": "Margaret Weis y Tracy Hickman",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Ascenso del Elfo Oscuro",
+    "author": "R.A. Salvatore",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Ojo del Mundo",
+    "author": "Robert Jordan",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Gran Cacería",
+    "author": "Robert Jordan",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Dragón Renacido",
+    "author": "Robert Jordan",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Cazadora de Sombras: Ciudad de Hueso",
+    "author": "Cassandra Clare",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Ciudad de Ceniza",
+    "author": "Cassandra Clare",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Trono de Cristal",
+    "author": "Sarah J. Maas",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Corona de Medianoche",
+    "author": "Sarah J. Maas",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Un Palacio de Cristal Roto",
+    "author": "Sarah J. Maas",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Una Corte de Rosas y Espinas",
+    "author": "Sarah J. Maas",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Una Corte de Niebla y Furia",
+    "author": "Sarah J. Maas",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Cuarta Ala",
+    "author": "Rebecca Yarros",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Alas de Ónice",
+    "author": "Rebecca Yarros",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Peter Pan",
+    "author": "J.M. Barrie",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Alicia en el País de las Maravillas",
+    "author": "Lewis Carroll",
+    "genre": "fantasia"
+  },
+  {
+    "title": "A Través del Espejo",
+    "author": "Lewis Carroll",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Principito",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Momo",
+    "author": "Michael Ende",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Historia Interminable",
+    "author": "Michael Ende",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Cuentos de los Hermanos Grimm",
+    "author": "Jacob y Wilhelm Grimm",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Luces del Norte",
+    "author": "Philip Pullman",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Daga",
+    "author": "Philip Pullman",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Catalejo Lacado",
+    "author": "Philip Pullman",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Canción de Aquiles",
+    "author": "Madeline Miller",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Cuentos de Terramar",
+    "author": "Ursula K. Le Guin",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Aprendiz de Asesino",
+    "author": "Robin Hobb",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Navío Mágico",
+    "author": "Robin Hobb",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Jonathan Strange y el Señor Norrell",
+    "author": "Susanna Clarke",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Castillo Ambulante",
+    "author": "Diana Wynne Jones",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Espada de la Verdad",
+    "author": "Terry Goodkind",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Camino de la Sombra",
+    "author": "Brent Weeks",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Príncipe Sanguinario",
+    "author": "Joe Abercrombie",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Voz de las Espadas",
+    "author": "Joe Abercrombie",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Un Monstruo Viene a Verme",
+    "author": "Patrick Ness",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Corazón de Tinta",
+    "author": "Cornelia Funke",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Circo de la Noche",
+    "author": "Erin Morgenstern",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Una Sombra Sutil de Magia",
+    "author": "V.E. Schwab",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Vida Invisible de Addie LaRue",
+    "author": "V.E. Schwab",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Quinta Estación",
+    "author": "N.K. Jemisin",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Sombra y Hueso",
+    "author": "Leigh Bardugo",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Seis de Cuervos",
+    "author": "Leigh Bardugo",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Rey Cruel",
+    "author": "Holly Black",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Uprooted",
+    "author": "Naomi Novik",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Spinning Silver",
+    "author": "Naomi Novik",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Fundación",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Fundación e Imperio",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Segunda Fundación",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Los Límites de la Fundación",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Fundación y Tierra",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Preludio a la Fundación",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Hacia la Fundación",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Yo, Robot",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Las Bóvedas de Acero",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Sol Desnudo",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Los Robots del Amanecer",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Robots e Imperio",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Mesías de Dune",
+    "author": "Frank Herbert",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Hijos de Dune",
+    "author": "Frank Herbert",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Dios Emperador de Dune",
+    "author": "Frank Herbert",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Herejes de Dune",
+    "author": "Frank Herbert",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Casa Capitular Dune",
+    "author": "Frank Herbert",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Juego de Ender",
+    "author": "Orson Scott Card",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Voz de los Muertos",
+    "author": "Orson Scott Card",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Ender el Xenocida",
+    "author": "Orson Scott Card",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Hijos de la Mente",
+    "author": "Orson Scott Card",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Caída de Hyperion",
+    "author": "Dan Simmons",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Endymion",
+    "author": "Dan Simmons",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Ascenso de Endymion",
+    "author": "Dan Simmons",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Leviatán Despierta",
+    "author": "James S.A. Corey",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Guerra de Calibán",
+    "author": "James S.A. Corey",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Puerta de Abaddon",
+    "author": "James S.A. Corey",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Cibola Burn",
+    "author": "James S.A. Corey",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Juegos de Némesis",
+    "author": "James S.A. Corey",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Neuromante",
+    "author": "William Gibson",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Conde Cero",
+    "author": "William Gibson",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Mona Lisa Acelerada",
+    "author": "William Gibson",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Los Desposeídos",
+    "author": "Ursula K. Le Guin",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Mano Izquierda de la Oscuridad",
+    "author": "Ursula K. Le Guin",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "¿Sueñan los Androides con Ovejas Eléctricas?",
+    "author": "Philip K. Dick",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Ubik",
+    "author": "Philip K. Dick",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Hombre en el Castillo",
+    "author": "Philip K. Dick",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Fluyan mis Lágrimas, dijo el Policía",
+    "author": "Philip K. Dick",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Máquina del Tiempo",
+    "author": "H.G. Wells",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Guerra de los Mundos",
+    "author": "H.G. Wells",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Hombre Invisible",
+    "author": "H.G. Wells",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Crónicas Marcianas",
+    "author": "Ray Bradbury",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Hombre Ilustrado",
+    "author": "Ray Bradbury",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Veinte Mil Leguas de Viaje Submarino",
+    "author": "Julio Verne",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Viaje al Centro de la Tierra",
+    "author": "Julio Verne",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "De la Tierra a la Luna",
+    "author": "Julio Verne",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Un Mundo Feliz",
+    "author": "Aldous Huxley",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "2001: Una Odisea del Espacio",
+    "author": "Arthur C. Clarke",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Cita con Rama",
+    "author": "Arthur C. Clarke",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Fin de la Infancia",
+    "author": "Arthur C. Clarke",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Problema de los Tres Cuerpos",
+    "author": "Liu Cixin",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Bosque Oscuro",
+    "author": "Liu Cixin",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Fin de la Muerte",
+    "author": "Liu Cixin",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Marciano",
+    "author": "Andy Weir",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Proyecto Hail Mary",
+    "author": "Andy Weir",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Artemis",
+    "author": "Andy Weir",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Dark Matter",
+    "author": "Blake Crouch",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Recursion",
+    "author": "Blake Crouch",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Los Juegos del Hambre",
+    "author": "Suzanne Collins",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "En Llamas",
+    "author": "Suzanne Collins",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Sinsajo",
+    "author": "Suzanne Collins",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Divergente",
+    "author": "Veronica Roth",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Insurgente",
+    "author": "Veronica Roth",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Leal",
+    "author": "Veronica Roth",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Idoru",
+    "author": "William Gibson",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Kindred: Vínculos de Sangre",
+    "author": "Octavia Butler",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Parábola del Sembrador",
+    "author": "Octavia Butler",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Guía del Autoestopista Galáctico",
+    "author": "Douglas Adams",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Restaurante del Fin del Mundo",
+    "author": "Douglas Adams",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Vida, el Universo y Todo lo Demás",
+    "author": "Douglas Adams",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Solaris",
+    "author": "Stanislaw Lem",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Un Fuego sobre el Abismo",
+    "author": "Vernor Vinge",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Historia de tu Vida",
+    "author": "Ted Chiang",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Exhalación",
+    "author": "Ted Chiang",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Cryptonomicon",
+    "author": "Neal Stephenson",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Guerra Interminable",
+    "author": "Joe Haldeman",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Tropas del Espacio",
+    "author": "Robert A. Heinlein",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Forastero en Tierra Extraña",
+    "author": "Robert A. Heinlein",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Luna es una Cruel Amante",
+    "author": "Robert A. Heinlein",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Cuento de la Criada",
+    "author": "Margaret Atwood",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Los Testamentos",
+    "author": "Margaret Atwood",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Estación Once",
+    "author": "Emily St. John Mandel",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Chica Mecánica",
+    "author": "Paolo Bacigalupi",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Ready Player Two",
+    "author": "Ernest Cline",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Carbono Alterado",
+    "author": "Richard K. Morgan",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Semiosis",
+    "author": "Sue Burke",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Contacto",
+    "author": "Carl Sagan",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Flores para Algernon",
+    "author": "Daniel Keyes",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Anatema",
+    "author": "Neal Stephenson",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Seveneves",
+    "author": "Neal Stephenson",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Larga Marcha de la Tierra",
+    "author": "Terry Pratchett y Stephen Baxter",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Fin de la Eternidad",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Némesis",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Los Propios Dioses",
+    "author": "Isaac Asimov",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Asesinato en el Orient Express",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Diez Negritos",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Muerte en el Nilo",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Asesinato de Roger Ackroyd",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Ratonera",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Cita con la Muerte",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Misterioso Caso de Styles",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Cinco Cerditos",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Tren de las 4:50",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Un Cadáver en la Biblioteca",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Los Cuatro Grandes",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Muerte en la Vicaría",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Testigo de Cargo",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Se Anuncia un Asesinato",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Misterio de la Guía de Ferrocarriles",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Casa Torcida",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Trayectoria de Boomerang",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Espejo se Rajó de Lado a Lado",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Peligro Inminente",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Poirot Investiga",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Estudio en Escarlata",
+    "author": "Arthur Conan Doyle",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Signo de los Cuatro",
+    "author": "Arthur Conan Doyle",
+    "genre": "misterio"
+  },
+  {
+    "title": "Las Aventuras de Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Sabueso de los Baskerville",
+    "author": "Arthur Conan Doyle",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Valle del Terror",
+    "author": "Arthur Conan Doyle",
+    "genre": "misterio"
+  },
+  {
+    "title": "Las Memorias de Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Regreso de Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "misterio"
+  },
+  {
+    "title": "Su Última Reverencia",
+    "author": "Arthur Conan Doyle",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Archivo de Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "misterio"
+  },
+  {
+    "title": "Los Hombres que no Amaban a las Mujeres",
+    "author": "Stieg Larsson",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Chica que Soñaba con una Cerilla y un Bidón de Gasolina",
+    "author": "Stieg Larsson",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Reina en el Palacio de las Corrientes de Aire",
+    "author": "Stieg Larsson",
+    "genre": "misterio"
+  },
+  {
+    "title": "Perdida",
+    "author": "Gillian Flynn",
+    "genre": "misterio"
+  },
+  {
+    "title": "Heridas Abiertas",
+    "author": "Gillian Flynn",
+    "genre": "misterio"
+  },
+  {
+    "title": "Un Lugar Oscuro",
+    "author": "Gillian Flynn",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Código Da Vinci",
+    "author": "Dan Brown",
+    "genre": "misterio"
+  },
+  {
+    "title": "Ángeles y Demonios",
+    "author": "Dan Brown",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Símbolo Perdido",
+    "author": "Dan Brown",
+    "genre": "misterio"
+  },
+  {
+    "title": "Inferno",
+    "author": "Dan Brown",
+    "genre": "misterio"
+  },
+  {
+    "title": "Origen",
+    "author": "Dan Brown",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Talento de Mr. Ripley",
+    "author": "Patricia Highsmith",
+    "genre": "misterio"
+  },
+  {
+    "title": "Extraños en un Tren",
+    "author": "Patricia Highsmith",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Sueño Eterno",
+    "author": "Raymond Chandler",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Largo Adiós",
+    "author": "Raymond Chandler",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Dama del Lago",
+    "author": "Raymond Chandler",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Halcón Maltés",
+    "author": "Dashiell Hammett",
+    "genre": "misterio"
+  },
+  {
+    "title": "Cosecha Roja",
+    "author": "Dashiell Hammett",
+    "genre": "misterio"
+  },
+  {
+    "title": "Los Crímenes de la Calle Morgue",
+    "author": "Edgar Allan Poe",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Carta Robada",
+    "author": "Edgar Allan Poe",
+    "genre": "misterio"
+  },
+  {
+    "title": "Pietr, el Letón",
+    "author": "Georges Simenon",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Perro Canelo",
+    "author": "Georges Simenon",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Trampa de Maigret",
+    "author": "Georges Simenon",
+    "genre": "misterio"
+  },
+  {
+    "title": "Asesinos sin Rostro",
+    "author": "Henning Mankell",
+    "genre": "misterio"
+  },
+  {
+    "title": "Los Perros de Riga",
+    "author": "Henning Mankell",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Muñeco de Nieve",
+    "author": "Jo Nesbø",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Sed",
+    "author": "Jo Nesbø",
+    "genre": "misterio"
+  },
+  {
+    "title": "Petirrojo",
+    "author": "Jo Nesbø",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Chica del Tren",
+    "author": "Paula Hawkins",
+    "genre": "misterio"
+  },
+  {
+    "title": "Némesis",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Telón: Último Caso de Poirot",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Asesinato en Mesopotamia",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Misterio de la Ruta Azul",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Tragedia en Tres Actos",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Casa del Acantilado",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Enigmático Mr. Quin",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Después del Funeral",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Maldad Bajo el Sol",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Matar es Fácil",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Arsenio Lupin, Caballero Ladrón",
+    "author": "Maurice Leblanc",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Aguja Hueca",
+    "author": "Maurice Leblanc",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Candor del Padre Brown",
+    "author": "G.K. Chesterton",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Piedra Lunar",
+    "author": "Wilkie Collins",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Dama de Blanco",
+    "author": "Wilkie Collins",
+    "genre": "misterio"
+  },
+  {
+    "title": "Sabor a Muerte",
+    "author": "P.D. James",
+    "genre": "misterio"
+  },
+  {
+    "title": "Un Trabajo Adecuado para una Mujer",
+    "author": "P.D. James",
+    "genre": "misterio"
+  },
+  {
+    "title": "En un Bosque Oscuro",
+    "author": "Ruth Ware",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Mujer del Camarote 10",
+    "author": "Ruth Ware",
+    "genre": "misterio"
+  },
+  {
+    "title": "En el Bosque",
+    "author": "Tana French",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Poeta",
+    "author": "Michael Connelly",
+    "genre": "misterio"
+  },
+  {
+    "title": "Ciudad de Huesos",
+    "author": "Michael Connelly",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Dalia Negra",
+    "author": "James Ellroy",
+    "genre": "misterio"
+  },
+  {
+    "title": "L.A. Confidential",
+    "author": "James Ellroy",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Silencio de los Corderos",
+    "author": "Thomas Harris",
+    "genre": "misterio"
+  },
+  {
+    "title": "Dragón Rojo",
+    "author": "Thomas Harris",
+    "genre": "misterio"
+  },
+  {
+    "title": "Hannibal",
+    "author": "Thomas Harris",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Paciente Silenciosa",
+    "author": "Alex Michaelides",
+    "genre": "misterio"
+  },
+  {
+    "title": "Sherlock Holmes: La Casa de la Seda",
+    "author": "Anthony Horowitz",
+    "genre": "misterio"
+  },
+  {
+    "title": "Magpie Murders",
+    "author": "Anthony Horowitz",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Princesa de Hielo",
+    "author": "Camilla Läckberg",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Coleccionista de Huesos",
+    "author": "Jeffery Deaver",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Bosque de los Ahorcados",
+    "author": "Donato Carrisi",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Tribunal de las Almas",
+    "author": "Donato Carrisi",
+    "genre": "misterio"
+  },
+  {
+    "title": "La Viuda Negra",
+    "author": "Daniel Silva",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Espía Inglés",
+    "author": "Daniel Silva",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Canto del Cuco",
+    "author": "Robert Galbraith",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Gusano de Seda",
+    "author": "Robert Galbraith",
+    "genre": "misterio"
+  },
+  {
+    "title": "Los Relojes",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Tercera Muchacha",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Misterio de Sittaford",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "Noche Eterna",
+    "author": "Agatha Christie",
+    "genre": "misterio"
+  },
+  {
+    "title": "El Diario de Noa",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "Mensaje en una Botella",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "Un Paseo para Recordar",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "Querido John",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "La Última Canción",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "Sin Ti",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "El Rescate",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "Al Caer la Noche",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "Cada Respiro",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "Lo Mejor de Mí",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "La Elección",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "El Faro",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "A Primera Vista",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "Regreso a Ti",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "Orgullo y Prejuicio",
+    "author": "Jane Austen",
+    "genre": "romance"
+  },
+  {
+    "title": "Sentido y Sensibilidad",
+    "author": "Jane Austen",
+    "genre": "romance"
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "genre": "romance"
+  },
+  {
+    "title": "Persuasión",
+    "author": "Jane Austen",
+    "genre": "romance"
+  },
+  {
+    "title": "Mansfield Park",
+    "author": "Jane Austen",
+    "genre": "romance"
+  },
+  {
+    "title": "La Abadía de Northanger",
+    "author": "Jane Austen",
+    "genre": "romance"
+  },
+  {
+    "title": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "genre": "romance"
+  },
+  {
+    "title": "It Starts with Us",
+    "author": "Colleen Hoover",
+    "genre": "romance"
+  },
+  {
+    "title": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "romance"
+  },
+  {
+    "title": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "romance"
+  },
+  {
+    "title": "November 9",
+    "author": "Colleen Hoover",
+    "genre": "romance"
+  },
+  {
+    "title": "Slammed",
+    "author": "Colleen Hoover",
+    "genre": "romance"
+  },
+  {
+    "title": "Maybe Someday",
+    "author": "Colleen Hoover",
+    "genre": "romance"
+  },
+  {
+    "title": "Cumbres Borrascosas",
+    "author": "Emily Brontë",
+    "genre": "romance"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "romance"
+  },
+  {
+    "title": "La Cabaña",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "Bajo el Mismo Cielo",
+    "author": "Nicholas Sparks",
+    "genre": "romance"
+  },
+  {
+    "title": "Nacido en la Vergüenza",
+    "author": "Nora Roberts",
+    "genre": "romance"
+  },
+  {
+    "title": "Nacido en el Hielo",
+    "author": "Nora Roberts",
+    "genre": "romance"
+  },
+  {
+    "title": "La Búsqueda",
+    "author": "Nora Roberts",
+    "genre": "romance"
+  },
+  {
+    "title": "El Refugio",
+    "author": "Nora Roberts",
+    "genre": "romance"
+  },
+  {
+    "title": "La Villa",
+    "author": "Nora Roberts",
+    "genre": "romance"
+  },
+  {
+    "title": "Fascinación",
+    "author": "Danielle Steel",
+    "genre": "romance"
+  },
+  {
+    "title": "Palomino",
+    "author": "Danielle Steel",
+    "genre": "romance"
+  },
+  {
+    "title": "Zoya",
+    "author": "Danielle Steel",
+    "genre": "romance"
+  },
+  {
+    "title": "Estrella",
+    "author": "Danielle Steel",
+    "genre": "romance"
+  },
+  {
+    "title": "Malicia",
+    "author": "Danielle Steel",
+    "genre": "romance"
+  },
+  {
+    "title": "Como Agua para Chocolate",
+    "author": "Laura Esquivel",
+    "genre": "romance"
+  },
+  {
+    "title": "El Tiempo Entre Costuras",
+    "author": "María Dueñas",
+    "genre": "romance"
+  },
+  {
+    "title": "Bajo la Misma Estrella",
+    "author": "John Green",
+    "genre": "romance"
+  },
+  {
+    "title": "Culpa Nuestra",
+    "author": "Mercedes Ron",
+    "genre": "romance"
+  },
+  {
+    "title": "Culpa Mía",
+    "author": "Mercedes Ron",
+    "genre": "romance"
+  },
+  {
+    "title": "Culpa Tuya",
+    "author": "Mercedes Ron",
+    "genre": "romance"
+  },
+  {
+    "title": "A Través de mi Ventana",
+    "author": "Ariana Godoy",
+    "genre": "romance"
+  },
+  {
+    "title": "Fuera de Cobertura",
+    "author": "Ariana Godoy",
+    "genre": "romance"
+  },
+  {
+    "title": "Después de Ti",
+    "author": "Jojo Moyes",
+    "genre": "romance"
+  },
+  {
+    "title": "Yo Antes de Ti",
+    "author": "Jojo Moyes",
+    "genre": "romance"
+  },
+  {
+    "title": "Sin Ti (Jojo Moyes)",
+    "author": "Jojo Moyes",
+    "genre": "romance"
+  },
+  {
+    "title": "El Diario de Bridget Jones",
+    "author": "Helen Fielding",
+    "genre": "romance"
+  },
+  {
+    "title": "Orgullo y Prejuicio y Zombis",
+    "author": "Seth Grahame-Smith",
+    "genre": "romance"
+  },
+  {
+    "title": "Los Puentes de Madison",
+    "author": "Robert James Waller",
+    "genre": "romance"
+  },
+  {
+    "title": "El Paciente Inglés",
+    "author": "Michael Ondaatje",
+    "genre": "romance"
+  },
+  {
+    "title": "Eleanor y Park",
+    "author": "Rainbow Rowell",
+    "genre": "romance"
+  },
+  {
+    "title": "Fangirl",
+    "author": "Rainbow Rowell",
+    "genre": "romance"
+  },
+  {
+    "title": "Anna y el Beso Francés",
+    "author": "Stephanie Perkins",
+    "genre": "romance"
+  },
+  {
+    "title": "Lola y el Chico de al Lado",
+    "author": "Stephanie Perkins",
+    "genre": "romance"
+  },
+  {
+    "title": "Cincuenta Sombras de Grey",
+    "author": "E.L. James",
+    "genre": "romance"
+  },
+  {
+    "title": "Cincuenta Sombras Más Oscuras",
+    "author": "E.L. James",
+    "genre": "romance"
+  },
+  {
+    "title": "Cincuenta Sombras Liberadas",
+    "author": "E.L. James",
+    "genre": "romance"
+  },
+  {
+    "title": "After",
+    "author": "Anna Todd",
+    "genre": "romance"
+  },
+  {
+    "title": "After We Collided",
+    "author": "Anna Todd",
+    "genre": "romance"
+  },
+  {
+    "title": "Forastera",
+    "author": "Diana Gabaldon",
+    "genre": "romance"
+  },
+  {
+    "title": "Atrapada en el Tiempo",
+    "author": "Diana Gabaldon",
+    "genre": "romance"
+  },
+  {
+    "title": "P.S. Te Quiero",
+    "author": "Cecelia Ahern",
+    "genre": "romance"
+  },
+  {
+    "title": "Donde Termina el Arcoíris",
+    "author": "Cecelia Ahern",
+    "genre": "romance"
+  },
+  {
+    "title": "El Amor en los Tiempos del Cólera",
+    "author": "Gabriel García Márquez",
+    "genre": "romance"
+  },
+  {
+    "title": "Rebeca",
+    "author": "Daphne du Maurier",
+    "genre": "romance"
+  },
+  {
+    "title": "Romeo y Julieta",
+    "author": "William Shakespeare",
+    "genre": "romance"
+  },
+  {
+    "title": "La Bella y la Bestia",
+    "author": "Jeanne-Marie Leprince de Beaumont",
+    "genre": "romance"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Liev Tolstói",
+    "genre": "romance"
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "genre": "romance"
+  },
+  {
+    "title": "Doctor Zhivago",
+    "author": "Boris Pasternak",
+    "genre": "romance"
+  },
+  {
+    "title": "El Gran Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "romance"
+  },
+  {
+    "title": "Tokio Blues",
+    "author": "Haruki Murakami",
+    "genre": "romance"
+  },
+  {
+    "title": "Chocolat",
+    "author": "Joanne Harris",
+    "genre": "romance"
+  },
+  {
+    "title": "Las Ventajas de Ser Invisible",
+    "author": "Stephen Chbosky",
+    "genre": "romance"
+  },
+  {
+    "title": "Eleanor Oliphant está Perfectamente",
+    "author": "Gail Honeyman",
+    "genre": "romance"
+  },
+  {
+    "title": "It's Not Summer Without You",
+    "author": "Jenny Han",
+    "genre": "romance"
+  },
+  {
+    "title": "A Todos los Chicos de los que me Enamoré",
+    "author": "Jenny Han",
+    "genre": "romance"
+  },
+  {
+    "title": "Red, White & Royal Blue",
+    "author": "Casey McQuiston",
+    "genre": "romance"
+  },
+  {
+    "title": "People We Meet on Vacation",
+    "author": "Emily Henry",
+    "genre": "romance"
+  },
+  {
+    "title": "Book Lovers",
+    "author": "Emily Henry",
+    "genre": "romance"
+  },
+  {
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "genre": "romance"
+  },
+  {
+    "title": "The Hating Game",
+    "author": "Sally Thorne",
+    "genre": "romance"
+  },
+  {
+    "title": "Algo Prestado",
+    "author": "Emily Giffin",
+    "genre": "romance"
+  },
+  {
+    "title": "Bridgerton: El Duque y Yo",
+    "author": "Julia Quinn",
+    "genre": "romance"
+  },
+  {
+    "title": "Bridgerton: El Vizconde que me Amó",
+    "author": "Julia Quinn",
+    "genre": "romance"
+  },
+  {
+    "title": "La Elegancia del Erizo",
+    "author": "Muriel Barbery",
+    "genre": "romance"
+  },
+  {
+    "title": "84 Charing Cross Road",
+    "author": "Helene Hanff",
+    "genre": "romance"
+  },
+  {
+    "title": "El Lector",
+    "author": "Bernhard Schlink",
+    "genre": "romance"
+  },
+  {
+    "title": "Verano",
+    "author": "Edith Wharton",
+    "genre": "romance"
+  },
+  {
+    "title": "La Edad de la Inocencia",
+    "author": "Edith Wharton",
+    "genre": "romance"
+  },
+  {
+    "title": "El Amante de Lady Chatterley",
+    "author": "D.H. Lawrence",
+    "genre": "romance"
+  },
+  {
+    "title": "Grandes Esperanzas",
+    "author": "Charles Dickens",
+    "genre": "romance"
+  },
+  {
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "genre": "romance"
+  },
+  {
+    "title": "Historia de Dos Ciudades",
+    "author": "Charles Dickens",
+    "genre": "romance"
+  },
+  {
+    "title": "Cyrano de Bergerac",
+    "author": "Edmond Rostand",
+    "genre": "romance"
+  },
+  {
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Cien Años de Soledad",
+    "author": "Gabriel García Márquez",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Crimen y Castigo",
+    "author": "Fiódor Dostoyevski",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Los Hermanos Karamázov",
+    "author": "Fiódor Dostoyevski",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Guerra y Paz",
+    "author": "Liev Tolstói",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Liev Tolstói",
+    "genre": "clasicos"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Rebelión en la Granja",
+    "author": "George Orwell",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Un Mundo Feliz",
+    "author": "Aldous Huxley",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Matar a un Ruiseñor",
+    "author": "Harper Lee",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Gran Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Drácula",
+    "author": "Bram Stoker",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Retrato de Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Orgullo y Prejuicio",
+    "author": "Jane Austen",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Cumbres Borrascosas",
+    "author": "Emily Brontë",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Grandes Esperanzas",
+    "author": "Charles Dickens",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Historia de Dos Ciudades",
+    "author": "Charles Dickens",
+    "genre": "clasicos"
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Los Miserables",
+    "author": "Victor Hugo",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Nuestra Señora de París",
+    "author": "Victor Hugo",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Conde de Montecristo",
+    "author": "Alejandro Dumas",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Los Tres Mosqueteros",
+    "author": "Alejandro Dumas",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Extranjero",
+    "author": "Albert Camus",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Peste",
+    "author": "Albert Camus",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Náusea",
+    "author": "Jean-Paul Sartre",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Proceso",
+    "author": "Franz Kafka",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Metamorfosis",
+    "author": "Franz Kafka",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Castillo",
+    "author": "Franz Kafka",
+    "genre": "clasicos"
+  },
+  {
+    "title": "En Busca del Tiempo Perdido",
+    "author": "Marcel Proust",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Ulises",
+    "author": "James Joyce",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Retrato del Artista Adolescente",
+    "author": "James Joyce",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Divina Comedia",
+    "author": "Dante Alighieri",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Odisea",
+    "author": "Homero",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Ilíada",
+    "author": "Homero",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Edipo Rey",
+    "author": "Sófocles",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Antígona",
+    "author": "Sófocles",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Otelo",
+    "author": "William Shakespeare",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Rey Lear",
+    "author": "William Shakespeare",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Romeo y Julieta",
+    "author": "William Shakespeare",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Fausto",
+    "author": "Johann Wolfgang von Goethe",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Los Sufrimientos del Joven Werther",
+    "author": "Johann Wolfgang von Goethe",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Ficciones",
+    "author": "Jorge Luis Borges",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Aleph",
+    "author": "Jorge Luis Borges",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Pedro Páramo",
+    "author": "Juan Rulfo",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Ciudad y los Perros",
+    "author": "Mario Vargas Llosa",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Casa de los Espíritus",
+    "author": "Isabel Allende",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Como Agua para Chocolate",
+    "author": "Laura Esquivel",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Túnel",
+    "author": "Ernesto Sábato",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Martín Fierro",
+    "author": "José Hernández",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Regenta",
+    "author": "Leopoldo Alas Clarín",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Fortunata y Jacinta",
+    "author": "Benito Pérez Galdós",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Niebla",
+    "author": "Miguel de Unamuno",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Platero y Yo",
+    "author": "Juan Ramón Jiménez",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Casa de Bernarda Alba",
+    "author": "Federico García Lorca",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Bodas de Sangre",
+    "author": "Federico García Lorca",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Lazarillo de Tormes",
+    "author": "Anónimo",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Celestina",
+    "author": "Fernando de Rojas",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Las Aventuras de Tom Sawyer",
+    "author": "Mark Twain",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Las Aventuras de Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Los Viajes de Gulliver",
+    "author": "Jonathan Swift",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Isla del Tesoro",
+    "author": "Robert Louis Stevenson",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Extraño Caso del Dr. Jekyll y Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Veinte Mil Leguas de Viaje Submarino",
+    "author": "Julio Verne",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Vuelta al Mundo en Ochenta Días",
+    "author": "Julio Verne",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Los Buddenbrook",
+    "author": "Thomas Mann",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Montaña Mágica",
+    "author": "Thomas Mann",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Lobo Estepario",
+    "author": "Hermann Hesse",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Demian",
+    "author": "Hermann Hesse",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Idiota",
+    "author": "Fiódor Dostoyevski",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Los Endemoniados",
+    "author": "Fiódor Dostoyevski",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Padres e Hijos",
+    "author": "Iván Turguénev",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Almas Muertas",
+    "author": "Nikolái Gógol",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Abrigo",
+    "author": "Nikolái Gógol",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Doctor Zhivago",
+    "author": "Boris Pasternak",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Un Día en la Vida de Iván Denísovich",
+    "author": "Aleksandr Solzhenitsin",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Nombre de la Rosa",
+    "author": "Umberto Eco",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Si Esto es un Hombre",
+    "author": "Primo Levi",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Diario de Ana Frank",
+    "author": "Ana Frank",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Matadero Cinco",
+    "author": "Kurt Vonnegut",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Guardián entre el Centeno",
+    "author": "J.D. Salinger",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Las Uvas de la Ira",
+    "author": "John Steinbeck",
+    "genre": "clasicos"
+  },
+  {
+    "title": "De Ratones y Hombres",
+    "author": "John Steinbeck",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Naranja Mecánica",
+    "author": "Anthony Burgess",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Señor de las Moscas",
+    "author": "William Golding",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Amor en los Tiempos del Cólera",
+    "author": "Gabriel García Márquez",
+    "genre": "clasicos"
+  },
+  {
+    "title": "Crónica de una Muerte Anunciada",
+    "author": "Gabriel García Márquez",
+    "genre": "clasicos"
+  },
+  {
+    "title": "La Sombra del Viento",
+    "author": "Carlos Ruiz Zafón",
+    "genre": "clasicos"
+  },
+  {
+    "title": "El Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "clasicos"
+  },
+  {
+    "title": "It",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "El Resplandor",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Doctor Sueño",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Cementerio de Animales",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Carrie",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Misery",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Cujo",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Christine",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "La Torre Oscura I: El Pistolero",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "La Zona Muerta",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Ojos de Fuego",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "La Milla Verde",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Los Ojos del Dragón",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Bajo la Cúpula",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Revival",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Joyland",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Mr. Mercedes",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "El Instituto",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Later",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Cuento de Hadas",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "El Misterio de Salem's Lot",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Needful Things",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "El Umbral de la Noche",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Pesadillas y Alucinaciones",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Insomnia",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Rabia",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "La Larga Marcha",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "El Fugitivo",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Rose Madder",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Un Saco de Huesos",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Dolores Claiborne",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Corazones en la Atlántida",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "La Historia de Lisey",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Duma Key",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Celular",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "El Visitante",
+    "author": "Stephen King",
+    "genre": "terror"
+  },
+  {
+    "title": "Cuentos de Terror",
+    "author": "Edgar Allan Poe",
+    "genre": "terror"
+  },
+  {
+    "title": "La Caída de la Casa Usher",
+    "author": "Edgar Allan Poe",
+    "genre": "terror"
+  },
+  {
+    "title": "El Corazón Delator",
+    "author": "Edgar Allan Poe",
+    "genre": "terror"
+  },
+  {
+    "title": "El Gato Negro",
+    "author": "Edgar Allan Poe",
+    "genre": "terror"
+  },
+  {
+    "title": "El Pozo y el Péndulo",
+    "author": "Edgar Allan Poe",
+    "genre": "terror"
+  },
+  {
+    "title": "El Escarabajo de Oro",
+    "author": "Edgar Allan Poe",
+    "genre": "terror"
+  },
+  {
+    "title": "La Máscara de la Muerte Roja",
+    "author": "Edgar Allan Poe",
+    "genre": "terror"
+  },
+  {
+    "title": "El Barril de Amontillado",
+    "author": "Edgar Allan Poe",
+    "genre": "terror"
+  },
+  {
+    "title": "Berenice",
+    "author": "Edgar Allan Poe",
+    "genre": "terror"
+  },
+  {
+    "title": "Ligeia",
+    "author": "Edgar Allan Poe",
+    "genre": "terror"
+  },
+  {
+    "title": "Los Crímenes de la Calle Morgue",
+    "author": "Edgar Allan Poe",
+    "genre": "terror"
+  },
+  {
+    "title": "La Llamada de Cthulhu",
+    "author": "H.P. Lovecraft",
+    "genre": "terror"
+  },
+  {
+    "title": "En las Montañas de la Locura",
+    "author": "H.P. Lovecraft",
+    "genre": "terror"
+  },
+  {
+    "title": "El Horror de Dunwich",
+    "author": "H.P. Lovecraft",
+    "genre": "terror"
+  },
+  {
+    "title": "El Color que Cayó del Cielo",
+    "author": "H.P. Lovecraft",
+    "genre": "terror"
+  },
+  {
+    "title": "La Sombra sobre Innsmouth",
+    "author": "H.P. Lovecraft",
+    "genre": "terror"
+  },
+  {
+    "title": "El Caso de Charles Dexter Ward",
+    "author": "H.P. Lovecraft",
+    "genre": "terror"
+  },
+  {
+    "title": "El Ceremonial",
+    "author": "H.P. Lovecraft",
+    "genre": "terror"
+  },
+  {
+    "title": "La Cosa en el Umbral",
+    "author": "H.P. Lovecraft",
+    "genre": "terror"
+  },
+  {
+    "title": "Los Sueños en la Casa de la Bruja",
+    "author": "H.P. Lovecraft",
+    "genre": "terror"
+  },
+  {
+    "title": "El Que Susurra en la Oscuridad",
+    "author": "H.P. Lovecraft",
+    "genre": "terror"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "terror"
+  },
+  {
+    "title": "Drácula",
+    "author": "Bram Stoker",
+    "genre": "terror"
+  },
+  {
+    "title": "La Maldición de Hill House",
+    "author": "Shirley Jackson",
+    "genre": "terror"
+  },
+  {
+    "title": "Otra Vuelta de Tuerca",
+    "author": "Henry James",
+    "genre": "terror"
+  },
+  {
+    "title": "El Extraño Caso del Dr. Jekyll y Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "genre": "terror"
+  },
+  {
+    "title": "Cabal",
+    "author": "Clive Barker",
+    "genre": "terror"
+  },
+  {
+    "title": "Libros de Sangre",
+    "author": "Clive Barker",
+    "genre": "terror"
+  },
+  {
+    "title": "Entrevista con el Vampiro",
+    "author": "Anne Rice",
+    "genre": "terror"
+  },
+  {
+    "title": "Lestat el Vampiro",
+    "author": "Anne Rice",
+    "genre": "terror"
+  },
+  {
+    "title": "La Reina de los Condenados",
+    "author": "Anne Rice",
+    "genre": "terror"
+  },
+  {
+    "title": "Soy Leyenda",
+    "author": "Richard Matheson",
+    "genre": "terror"
+  },
+  {
+    "title": "La Casa Infernal",
+    "author": "Richard Matheson",
+    "genre": "terror"
+  },
+  {
+    "title": "La Cepa",
+    "author": "Guillermo del Toro y Chuck Hogan",
+    "genre": "terror"
+  },
+  {
+    "title": "NOS4A2",
+    "author": "Joe Hill",
+    "genre": "terror"
+  },
+  {
+    "title": "El Traje del Muerto",
+    "author": "Joe Hill",
+    "genre": "terror"
+  },
+  {
+    "title": "Cuernos",
+    "author": "Joe Hill",
+    "genre": "terror"
+  },
+  {
+    "title": "La Caja de Fuego",
+    "author": "Joe Hill",
+    "genre": "terror"
+  },
+  {
+    "title": "La Cabaña del Fin del Mundo",
+    "author": "Paul Tremblay",
+    "genre": "terror"
+  },
+  {
+    "title": "Guía Definitiva de Supervivencia para Amas de Casa contra Vampiros",
+    "author": "Grady Hendrix",
+    "genre": "terror"
+  },
+  {
+    "title": "El Fantasma de Canterville",
+    "author": "Oscar Wilde",
+    "genre": "terror"
+  },
+  {
+    "title": "Los Pájaros y Otros Relatos",
+    "author": "Daphne du Maurier",
+    "genre": "terror"
+  },
+  {
+    "title": "Rebeca",
+    "author": "Daphne du Maurier",
+    "genre": "terror"
+  },
+  {
+    "title": "Jamaica Inn",
+    "author": "Daphne du Maurier",
+    "genre": "terror"
+  },
+  {
+    "title": "El Exorcista",
+    "author": "William Peter Blatty",
+    "genre": "terror"
+  },
+  {
+    "title": "El Silencio de los Corderos",
+    "author": "Thomas Harris",
+    "genre": "terror"
+  },
+  {
+    "title": "Dragón Rojo",
+    "author": "Thomas Harris",
+    "genre": "terror"
+  },
+  {
+    "title": "Hannibal",
+    "author": "Thomas Harris",
+    "genre": "terror"
+  },
+  {
+    "title": "Uzumaki",
+    "author": "Junji Ito",
+    "genre": "terror"
+  },
+  {
+    "title": "Tomie",
+    "author": "Junji Ito",
+    "genre": "terror"
+  },
+  {
+    "title": "Gyo",
+    "author": "Junji Ito",
+    "genre": "terror"
+  },
+  {
+    "title": "Pesadillas: Bienvenidos a la Casa de la Muerte",
+    "author": "R.L. Stine",
+    "genre": "terror"
+  },
+  {
+    "title": "Pesadillas: El Fantasma de al Lado",
+    "author": "R.L. Stine",
+    "genre": "terror"
+  },
+  {
+    "title": "Pesadillas: La Maldición de la Momia",
+    "author": "R.L. Stine",
+    "genre": "terror"
+  },
+  {
+    "title": "La Casa de las Hojas",
+    "author": "Mark Z. Danielewski",
+    "genre": "terror"
+  },
+  {
+    "title": "World War Z: Guerra Mundial Z",
+    "author": "Max Brooks",
+    "genre": "terror"
+  },
+  {
+    "title": "Manual de Supervivencia Zombie",
+    "author": "Max Brooks",
+    "genre": "terror"
+  },
+  {
+    "title": "Gótico",
+    "author": "Silvia Moreno-Garcia",
+    "genre": "terror"
+  },
+  {
+    "title": "Psicosis",
+    "author": "Robert Bloch",
+    "genre": "terror"
+  },
+  {
+    "title": "La Semilla del Diablo",
+    "author": "Ira Levin",
+    "genre": "terror"
+  },
+  {
+    "title": "Cuentos de Soldados y Civiles",
+    "author": "Ambrose Bierce",
+    "genre": "terror"
+  },
+  {
+    "title": "Los Sauces",
+    "author": "Algernon Blackwood",
+    "genre": "terror"
+  },
+  {
+    "title": "Carmilla",
+    "author": "Sheridan Le Fanu",
+    "genre": "terror"
+  },
+  {
+    "title": "El Retrato de Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "terror"
+  },
+  {
+    "title": "Veinte Mil Leguas de Viaje Submarino",
+    "author": "Julio Verne",
+    "genre": "aventura"
+  },
+  {
+    "title": "Viaje al Centro de la Tierra",
+    "author": "Julio Verne",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Vuelta al Mundo en Ochenta Días",
+    "author": "Julio Verne",
+    "genre": "aventura"
+  },
+  {
+    "title": "De la Tierra a la Luna",
+    "author": "Julio Verne",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Isla Misteriosa",
+    "author": "Julio Verne",
+    "genre": "aventura"
+  },
+  {
+    "title": "Miguel Strogoff",
+    "author": "Julio Verne",
+    "genre": "aventura"
+  },
+  {
+    "title": "Los Hijos del Capitán Grant",
+    "author": "Julio Verne",
+    "genre": "aventura"
+  },
+  {
+    "title": "Cinco Semanas en Globo",
+    "author": "Julio Verne",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Castillo de los Cárpatos",
+    "author": "Julio Verne",
+    "genre": "aventura"
+  },
+  {
+    "title": "Un Capitán de Quince Años",
+    "author": "Julio Verne",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Isla del Tesoro",
+    "author": "Robert Louis Stevenson",
+    "genre": "aventura"
+  },
+  {
+    "title": "Secuestrado",
+    "author": "Robert Louis Stevenson",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Flecha Negra",
+    "author": "Robert Louis Stevenson",
+    "genre": "aventura"
+  },
+  {
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "genre": "aventura"
+  },
+  {
+    "title": "Los Viajes de Gulliver",
+    "author": "Jonathan Swift",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Conde de Montecristo",
+    "author": "Alejandro Dumas",
+    "genre": "aventura"
+  },
+  {
+    "title": "Los Tres Mosqueteros",
+    "author": "Alejandro Dumas",
+    "genre": "aventura"
+  },
+  {
+    "title": "Veinte Años Después",
+    "author": "Alejandro Dumas",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Vizconde de Bragelonne",
+    "author": "Alejandro Dumas",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Hombre de la Máscara de Hierro",
+    "author": "Alejandro Dumas",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Reina Margot",
+    "author": "Alejandro Dumas",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Libro de la Selva",
+    "author": "Rudyard Kipling",
+    "genre": "aventura"
+  },
+  {
+    "title": "Kim",
+    "author": "Rudyard Kipling",
+    "genre": "aventura"
+  },
+  {
+    "title": "Capitanes Intrépidos",
+    "author": "Rudyard Kipling",
+    "genre": "aventura"
+  },
+  {
+    "title": "Las Minas del Rey Salomón",
+    "author": "H. Rider Haggard",
+    "genre": "aventura"
+  },
+  {
+    "title": "Ella",
+    "author": "H. Rider Haggard",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Llamada de la Selva",
+    "author": "Jack London",
+    "genre": "aventura"
+  },
+  {
+    "title": "Colmillo Blanco",
+    "author": "Jack London",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Lobo de Mar",
+    "author": "Jack London",
+    "genre": "aventura"
+  },
+  {
+    "title": "Las Aventuras de Tom Sawyer",
+    "author": "Mark Twain",
+    "genre": "aventura"
+  },
+  {
+    "title": "Las Aventuras de Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "aventura"
+  },
+  {
+    "title": "Un Yanqui en la Corte del Rey Arturo",
+    "author": "Mark Twain",
+    "genre": "aventura"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Último Mohicano",
+    "author": "James Fenimore Cooper",
+    "genre": "aventura"
+  },
+  {
+    "title": "Parque Jurásico",
+    "author": "Michael Crichton",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Mundo Perdido",
+    "author": "Michael Crichton",
+    "genre": "aventura"
+  },
+  {
+    "title": "Congo",
+    "author": "Michael Crichton",
+    "genre": "aventura"
+  },
+  {
+    "title": "Esfera",
+    "author": "Michael Crichton",
+    "genre": "aventura"
+  },
+  {
+    "title": "Sahara",
+    "author": "Clive Cussler",
+    "genre": "aventura"
+  },
+  {
+    "title": "Cíclope",
+    "author": "Clive Cussler",
+    "genre": "aventura"
+  },
+  {
+    "title": "Pacífico Ardiente",
+    "author": "Clive Cussler",
+    "genre": "aventura"
+  },
+  {
+    "title": "Los Cañones de Navarone",
+    "author": "Alistair MacLean",
+    "genre": "aventura"
+  },
+  {
+    "title": "Donde Osan las Águilas",
+    "author": "Alistair MacLean",
+    "genre": "aventura"
+  },
+  {
+    "title": "Cuando el León se Alimenta",
+    "author": "Wilbur Smith",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Sonido del Trueno",
+    "author": "Wilbur Smith",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Corsario Negro",
+    "author": "Emilio Salgari",
+    "genre": "aventura"
+  },
+  {
+    "title": "Sandokán: Los Tigres de Mompracem",
+    "author": "Emilio Salgari",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Odisea",
+    "author": "Homero",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Mundo Perdido",
+    "author": "Arthur Conan Doyle",
+    "genre": "aventura"
+  },
+  {
+    "title": "Redwall",
+    "author": "Brian Jacques",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "aventura"
+  },
+  {
+    "title": "Percy Jackson y el Ladrón del Rayo",
+    "author": "Rick Riordan",
+    "genre": "aventura"
+  },
+  {
+    "title": "Corazón de Tinta",
+    "author": "Cornelia Funke",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Historia Interminable",
+    "author": "Michael Ende",
+    "genre": "aventura"
+  },
+  {
+    "title": "Peter Pan",
+    "author": "J.M. Barrie",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Principito",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Señor de las Moscas",
+    "author": "William Golding",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Colina de los Conejos",
+    "author": "Richard Adams",
+    "genre": "aventura"
+  },
+  {
+    "title": "Las Aventuras de Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Signo de los Cuatro",
+    "author": "Arthur Conan Doyle",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Vida de Pi",
+    "author": "Yann Martel",
+    "genre": "aventura"
+  },
+  {
+    "title": "Hatchet: Aventura en la Naturaleza",
+    "author": "Gary Paulsen",
+    "genre": "aventura"
+  },
+  {
+    "title": "Kon-Tiki: Una Odisea del Pacífico",
+    "author": "Thor Heyerdahl",
+    "genre": "aventura"
+  },
+  {
+    "title": "Hacia Rutas Salvajes",
+    "author": "Jon Krakauer",
+    "genre": "aventura"
+  },
+  {
+    "title": "Mal de Altura",
+    "author": "Jon Krakauer",
+    "genre": "aventura"
+  },
+  {
+    "title": "¡Viven!",
+    "author": "Piers Paul Read",
+    "genre": "aventura"
+  },
+  {
+    "title": "Tarzán de los Monos",
+    "author": "Edgar Rice Burroughs",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Retorno de Tarzán",
+    "author": "Edgar Rice Burroughs",
+    "genre": "aventura"
+  },
+  {
+    "title": "Una Princesa de Marte",
+    "author": "Edgar Rice Burroughs",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Mago de Oz",
+    "author": "L. Frank Baum",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Sobrino del Mago",
+    "author": "C.S. Lewis",
+    "genre": "aventura"
+  },
+  {
+    "title": "Percy Jackson y el Mar de los Monstruos",
+    "author": "Rick Riordan",
+    "genre": "aventura"
+  },
+  {
+    "title": "Luces del Norte",
+    "author": "Philip Pullman",
+    "genre": "aventura"
+  },
+  {
+    "title": "Aprendiz de Asesino",
+    "author": "Robin Hobb",
+    "genre": "aventura"
+  },
+  {
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Viejo y el Mar",
+    "author": "Ernest Hemingway",
+    "genre": "aventura"
+  },
+  {
+    "title": "Las Nieves del Kilimanjaro",
+    "author": "Ernest Hemingway",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Sol También Sale",
+    "author": "Ernest Hemingway",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Corazón de las Tinieblas",
+    "author": "Joseph Conrad",
+    "genre": "aventura"
+  },
+  {
+    "title": "Lord Jim",
+    "author": "Joseph Conrad",
+    "genre": "aventura"
+  },
+  {
+    "title": "Nostromo",
+    "author": "Joseph Conrad",
+    "genre": "aventura"
+  },
+  {
+    "title": "Ivanhoe",
+    "author": "Walter Scott",
+    "genre": "aventura"
+  },
+  {
+    "title": "Rob Roy",
+    "author": "Walter Scott",
+    "genre": "aventura"
+  },
+  {
+    "title": "Waverley",
+    "author": "Walter Scott",
+    "genre": "aventura"
+  },
+  {
+    "title": "Cyrano de Bergerac",
+    "author": "Edmond Rostand",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Prisionero de Zenda",
+    "author": "Anthony Hope",
+    "genre": "aventura"
+  },
+  {
+    "title": "Rupert de Hentzau",
+    "author": "Anthony Hope",
+    "genre": "aventura"
+  },
+  {
+    "title": "Los Cuentos de la Alhambra",
+    "author": "Washington Irving",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Leyenda de Sleepy Hollow",
+    "author": "Washington Irving",
+    "genre": "aventura"
+  },
+  {
+    "title": "Rip Van Winkle",
+    "author": "Washington Irving",
+    "genre": "aventura"
+  },
+  {
+    "title": "Beowulf",
+    "author": "Anónimo",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Cantar de Mio Cid",
+    "author": "Anónimo",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Canción de Roldán",
+    "author": "Anónimo",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Zorro",
+    "author": "Johnston McCulley",
+    "genre": "aventura"
+  },
+  {
+    "title": "Don Juan",
+    "author": "Lord Byron",
+    "genre": "aventura"
+  },
+  {
+    "title": "La Isla del Doctor Moreau",
+    "author": "H.G. Wells",
+    "genre": "aventura"
+  },
+  {
+    "title": "El Escarabajo de Oro",
+    "author": "Edgar Allan Poe",
+    "genre": "aventura"
+  },
+  {
+    "title": "Los Piratas de la Malasia",
+    "author": "Emilio Salgari",
+    "genre": "aventura"
+  },
+  {
+    "title": "El León de Damasco",
+    "author": "Emilio Salgari",
+    "genre": "aventura"
+  },
+  {
+    "title": "Las Tigresas de Mompracem",
+    "author": "Emilio Salgari",
+    "genre": "aventura"
+  },
+  {
+    "title": "Los Pilares de la Tierra",
+    "author": "Ken Follett",
+    "genre": "historica"
+  },
+  {
+    "title": "Un Mundo sin Fin",
+    "author": "Ken Follett",
+    "genre": "historica"
+  },
+  {
+    "title": "Una Columna de Fuego",
+    "author": "Ken Follett",
+    "genre": "historica"
+  },
+  {
+    "title": "La Caída de los Gigantes",
+    "author": "Ken Follett",
+    "genre": "historica"
+  },
+  {
+    "title": "El Invierno del Mundo",
+    "author": "Ken Follett",
+    "genre": "historica"
+  },
+  {
+    "title": "El Umbral de la Eternidad",
+    "author": "Ken Follett",
+    "genre": "historica"
+  },
+  {
+    "title": "El Hombre de San Petersburgo",
+    "author": "Ken Follett",
+    "genre": "historica"
+  },
+  {
+    "title": "Triple",
+    "author": "Ken Follett",
+    "genre": "historica"
+  },
+  {
+    "title": "El Ojo de la Aguja",
+    "author": "Ken Follett",
+    "genre": "historica"
+  },
+  {
+    "title": "La Isla de las Tormentas",
+    "author": "Ken Follett",
+    "genre": "historica"
+  },
+  {
+    "title": "El Último Reino",
+    "author": "Bernard Cornwell",
+    "genre": "historica"
+  },
+  {
+    "title": "El Señor de la Guerra",
+    "author": "Bernard Cornwell",
+    "genre": "historica"
+  },
+  {
+    "title": "Azincourt",
+    "author": "Bernard Cornwell",
+    "genre": "historica"
+  },
+  {
+    "title": "Waterloo",
+    "author": "Bernard Cornwell",
+    "genre": "historica"
+  },
+  {
+    "title": "La Otra Chica Bolena",
+    "author": "Philippa Gregory",
+    "genre": "historica"
+  },
+  {
+    "title": "La Reina Blanca",
+    "author": "Philippa Gregory",
+    "genre": "historica"
+  },
+  {
+    "title": "Wolf Hall",
+    "author": "Hilary Mantel",
+    "genre": "historica"
+  },
+  {
+    "title": "Trae los Cuerpos",
+    "author": "Hilary Mantel",
+    "genre": "historica"
+  },
+  {
+    "title": "Yo, Claudio",
+    "author": "Robert Graves",
+    "genre": "historica"
+  },
+  {
+    "title": "El Primer Hombre de Roma",
+    "author": "Colleen McCullough",
+    "genre": "historica"
+  },
+  {
+    "title": "El Nombre de la Rosa",
+    "author": "Umberto Eco",
+    "genre": "historica"
+  },
+  {
+    "title": "Baudolino",
+    "author": "Umberto Eco",
+    "genre": "historica"
+  },
+  {
+    "title": "El Médico",
+    "author": "Noah Gordon",
+    "genre": "historica"
+  },
+  {
+    "title": "Africanus: El Hijo del Cónsul",
+    "author": "Santiago Posteguillo",
+    "genre": "historica"
+  },
+  {
+    "title": "Las Legiones Malditas",
+    "author": "Santiago Posteguillo",
+    "genre": "historica"
+  },
+  {
+    "title": "La Traición de Roma",
+    "author": "Santiago Posteguillo",
+    "genre": "historica"
+  },
+  {
+    "title": "Yo, Julia",
+    "author": "Santiago Posteguillo",
+    "genre": "historica"
+  },
+  {
+    "title": "El Capitán Alatriste",
+    "author": "Arturo Pérez-Reverte",
+    "genre": "historica"
+  },
+  {
+    "title": "Limpieza de Sangre",
+    "author": "Arturo Pérez-Reverte",
+    "genre": "historica"
+  },
+  {
+    "title": "El Sol de Breda",
+    "author": "Arturo Pérez-Reverte",
+    "genre": "historica"
+  },
+  {
+    "title": "El General en su Laberinto",
+    "author": "Gabriel García Márquez",
+    "genre": "historica"
+  },
+  {
+    "title": "Inés del Alma Mía",
+    "author": "Isabel Allende",
+    "genre": "historica"
+  },
+  {
+    "title": "La Isla Bajo el Mar",
+    "author": "Isabel Allende",
+    "genre": "historica"
+  },
+  {
+    "title": "Sinué el Egipcio",
+    "author": "Mika Waltari",
+    "genre": "historica"
+  },
+  {
+    "title": "Éxodo",
+    "author": "Leon Uris",
+    "genre": "historica"
+  },
+  {
+    "title": "Shogun",
+    "author": "James Clavell",
+    "genre": "historica"
+  },
+  {
+    "title": "Tai-Pan",
+    "author": "James Clavell",
+    "genre": "historica"
+  },
+  {
+    "title": "Sarum",
+    "author": "Edward Rutherfurd",
+    "genre": "historica"
+  },
+  {
+    "title": "Londres",
+    "author": "Edward Rutherfurd",
+    "genre": "historica"
+  },
+  {
+    "title": "Forastera",
+    "author": "Diana Gabaldon",
+    "genre": "historica"
+  },
+  {
+    "title": "Guerra y Paz",
+    "author": "Liev Tolstói",
+    "genre": "historica"
+  },
+  {
+    "title": "Los Miserables",
+    "author": "Victor Hugo",
+    "genre": "historica"
+  },
+  {
+    "title": "El Conde de Montecristo",
+    "author": "Alejandro Dumas",
+    "genre": "historica"
+  },
+  {
+    "title": "Memorias de Adriano",
+    "author": "Marguerite Yourcenar",
+    "genre": "historica"
+  },
+  {
+    "title": "Cleopatra",
+    "author": "Margaret George",
+    "genre": "historica"
+  },
+  {
+    "title": "Los Idus de Marzo",
+    "author": "Thornton Wilder",
+    "genre": "historica"
+  },
+  {
+    "title": "Roma",
+    "author": "Steven Saylor",
+    "genre": "historica"
+  },
+  {
+    "title": "Sangre de Reyes",
+    "author": "Conn Iggulden",
+    "genre": "historica"
+  },
+  {
+    "title": "El Emperador de las Puertas de Oro",
+    "author": "Conn Iggulden",
+    "genre": "historica"
+  },
+  {
+    "title": "Los Sueños del Águila",
+    "author": "Conn Iggulden",
+    "genre": "historica"
+  },
+  {
+    "title": "La Sombra de la Espada",
+    "author": "Conn Iggulden",
+    "genre": "historica"
+  },
+  {
+    "title": "Cleopatra: Una Vida",
+    "author": "Stacy Schiff",
+    "genre": "historica"
+  },
+  {
+    "title": "El Diario de Ana Frank",
+    "author": "Ana Frank",
+    "genre": "historica"
+  },
+  {
+    "title": "Noche",
+    "author": "Elie Wiesel",
+    "genre": "historica"
+  },
+  {
+    "title": "La Sombra del Viento",
+    "author": "Carlos Ruiz Zafón",
+    "genre": "historica"
+  },
+  {
+    "title": "El Jinete Polaco",
+    "author": "Antonio Muñoz Molina",
+    "genre": "historica"
+  },
+  {
+    "title": "La Catedral del Mar",
+    "author": "Ildefonso Falcones",
+    "genre": "historica"
+  },
+  {
+    "title": "La Mano de Fátima",
+    "author": "Ildefonso Falcones",
+    "genre": "historica"
+  },
+  {
+    "title": "Los Herederos de la Tierra",
+    "author": "Ildefonso Falcones",
+    "genre": "historica"
+  },
+  {
+    "title": "La Reina Descalza",
+    "author": "Ildefonso Falcones",
+    "genre": "historica"
+  },
+  {
+    "title": "Patria",
+    "author": "Fernando Aramburu",
+    "genre": "historica"
+  },
+  {
+    "title": "El Tiempo Entre Costuras",
+    "author": "María Dueñas",
+    "genre": "historica"
+  },
+  {
+    "title": "Misión Olvido",
+    "author": "María Dueñas",
+    "genre": "historica"
+  },
+  {
+    "title": "La Templanza",
+    "author": "María Dueñas",
+    "genre": "historica"
+  },
+  {
+    "title": "La Verdad Sobre el Caso Savolta",
+    "author": "Eduardo Mendoza",
+    "genre": "historica"
+  },
+  {
+    "title": "La Ciudad de los Prodigios",
+    "author": "Eduardo Mendoza",
+    "genre": "historica"
+  },
+  {
+    "title": "La Regenta",
+    "author": "Leopoldo Alas Clarín",
+    "genre": "historica"
+  },
+  {
+    "title": "Fortunata y Jacinta",
+    "author": "Benito Pérez Galdós",
+    "genre": "historica"
+  },
+  {
+    "title": "Trafalgar",
+    "author": "Benito Pérez Galdós",
+    "genre": "historica"
+  },
+  {
+    "title": "Bomarzo",
+    "author": "Manuel Mujica Láinez",
+    "genre": "historica"
+  },
+  {
+    "title": "La Guerra del Fin del Mundo",
+    "author": "Mario Vargas Llosa",
+    "genre": "historica"
+  },
+  {
+    "title": "La Fiesta del Chivo",
+    "author": "Mario Vargas Llosa",
+    "genre": "historica"
+  },
+  {
+    "title": "Los Perros del Paraíso",
+    "author": "Abel Posse",
+    "genre": "historica"
+  },
+  {
+    "title": "El Reino de Este Mundo",
+    "author": "Alejo Carpentier",
+    "genre": "historica"
+  },
+  {
+    "title": "El Siglo de las Luces",
+    "author": "Alejo Carpentier",
+    "genre": "historica"
+  },
+  {
+    "title": "Terra Nostra",
+    "author": "Carlos Fuentes",
+    "genre": "historica"
+  },
+  {
+    "title": "La Muerte de Artemio Cruz",
+    "author": "Carlos Fuentes",
+    "genre": "historica"
+  },
+  {
+    "title": "Noticia de un Secuestro",
+    "author": "Gabriel García Márquez",
+    "genre": "historica"
+  },
+  {
+    "title": "El Otoño del Patriarca",
+    "author": "Gabriel García Márquez",
+    "genre": "historica"
+  },
+  {
+    "title": "Cien Años de Soledad",
+    "author": "Gabriel García Márquez",
+    "genre": "historica"
+  },
+  {
+    "title": "Doctor Zhivago",
+    "author": "Boris Pasternak",
+    "genre": "historica"
+  },
+  {
+    "title": "Memorias de una Geisha",
+    "author": "Arthur Golden",
+    "genre": "historica"
+  },
+  {
+    "title": "El Jardín de los Finzi-Contini",
+    "author": "Giorgio Bassani",
+    "genre": "historica"
+  },
+  {
+    "title": "Si Esto es un Hombre",
+    "author": "Primo Levi",
+    "genre": "historica"
+  },
+  {
+    "title": "Trilogía de Auschwitz",
+    "author": "Primo Levi",
+    "genre": "historica"
+  },
+  {
+    "title": "La Ladrona de Libros",
+    "author": "Markus Zusak",
+    "genre": "historica"
+  },
+  {
+    "title": "El Niño con el Pijama de Rayas",
+    "author": "John Boyne",
+    "genre": "historica"
+  },
+  {
+    "title": "Todo Está Iluminado",
+    "author": "Jonathan Safran Foer",
+    "genre": "historica"
+  },
+  {
+    "title": "La Chica Danesa",
+    "author": "David Ebershoff",
+    "genre": "historica"
+  },
+  {
+    "title": "Némesis",
+    "author": "Philip Roth",
+    "genre": "historica"
+  },
+  {
+    "title": "Pastoral Americana",
+    "author": "Philip Roth",
+    "genre": "historica"
+  },
+  {
+    "title": "Vientos de Guerra",
+    "author": "Herman Wouk",
+    "genre": "historica"
+  },
+  {
+    "title": "El Precio del Poder",
+    "author": "Herman Wouk",
+    "genre": "historica"
+  },
+  {
+    "title": "La Hoguera de las Vanidades",
+    "author": "Tom Wolfe",
+    "genre": "historica"
+  },
+  {
+    "title": "Las Brujas de Salem",
+    "author": "Arthur Miller",
+    "genre": "historica"
+  },
+  {
+    "title": "El Diario de un Cura Rural",
+    "author": "Georges Bernanos",
+    "genre": "historica"
+  },
+  {
+    "title": "Los Buddenbrook",
+    "author": "Thomas Mann",
+    "genre": "historica"
+  },
+  {
+    "title": "El Cementerio de Praga",
+    "author": "Umberto Eco",
+    "genre": "historica"
+  },
+  {
+    "title": "El Libro de las Maravillas",
+    "author": "Marco Polo",
+    "genre": "historica"
+  },
+  {
+    "title": "La Ciudad de los Sabios",
+    "author": "Antonio Cabanas",
+    "genre": "historica"
+  },
+  {
+    "title": "Charlie y la Fábrica de Chocolate",
+    "author": "Roald Dahl",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Las Brujas",
+    "author": "Roald Dahl",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "James y el Melocotón Gigante",
+    "author": "Roald Dahl",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Gran Gigante Bonachón",
+    "author": "Roald Dahl",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Danny, el Campeón del Mundo",
+    "author": "Roald Dahl",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Superzorro",
+    "author": "Roald Dahl",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Diario de Greg",
+    "author": "Jeff Kinney",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Diario de Greg 2: La Ley de Rodrick",
+    "author": "Jeff Kinney",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Diario de Greg 3: Esto es el Colmo",
+    "author": "Jeff Kinney",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Harry Potter y la Piedra Filosofal",
+    "author": "J.K. Rowling",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Percy Jackson y el Ladrón del Rayo",
+    "author": "Rick Riordan",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Los Juegos del Hambre",
+    "author": "Suzanne Collins",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Divergente",
+    "author": "Veronica Roth",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Un Mago de Terramar",
+    "author": "Ursula K. Le Guin",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El León, la Bruja y el Armario",
+    "author": "C.S. Lewis",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Alicia en el País de las Maravillas",
+    "author": "Lewis Carroll",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Peter Pan",
+    "author": "J.M. Barrie",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Principito",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Momo",
+    "author": "Michael Ende",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Historia Interminable",
+    "author": "Michael Ende",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Pippi Calzaslargas",
+    "author": "Astrid Lindgren",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Los Hermanos Corazón de León",
+    "author": "Astrid Lindgren",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Heidi",
+    "author": "Johanna Spyri",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Mujercitas",
+    "author": "Louisa May Alcott",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Ana de las Tejas Verdes",
+    "author": "Lucy Maud Montgomery",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Jardín Secreto",
+    "author": "Frances Hodgson Burnett",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Princesita",
+    "author": "Frances Hodgson Burnett",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Maravilloso Mago de Oz",
+    "author": "L. Frank Baum",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Pinocho",
+    "author": "Carlo Collodi",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Las Aventuras de Alicia en el País de las Maravillas",
+    "author": "Lewis Carroll",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Osito Winnie the Pooh",
+    "author": "A.A. Milne",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Casa en el Rincón de Pu",
+    "author": "A.A. Milne",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Viento en los Sauces",
+    "author": "Kenneth Grahame",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Donde Viven los Monstruos",
+    "author": "Maurice Sendak",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Libro del Cementerio",
+    "author": "Neil Gaiman",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Corazón de Tinta",
+    "author": "Cornelia Funke",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Cuarto Grado: Un Puente hacia Terabithia",
+    "author": "Katherine Paterson",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Wonder: La Lección de August",
+    "author": "R.J. Palacio",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Curioso Incidente del Perro a Medianoche",
+    "author": "Mark Haddon",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Diario de una Lombriz",
+    "author": "Doreen Cronin",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Geronimo Stilton: El Misterioso Manuscrito",
+    "author": "Elisabetta Dami",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Manolito Gafotas",
+    "author": "Elvira Lindo",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Pequeño Nicolás",
+    "author": "René Goscinny y Jean-Jacques Sempé",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Cuentos de la Selva",
+    "author": "Horacio Quiroga",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Platero y Yo",
+    "author": "Juan Ramón Jiménez",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Isla del Tesoro",
+    "author": "Robert Louis Stevenson",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Los Viajes de Gulliver",
+    "author": "Jonathan Swift",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "20.000 Leguas de Viaje Submarino",
+    "author": "Julio Verne",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Vuelta al Mundo en 80 Días",
+    "author": "Julio Verne",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Las Crónicas de Narnia: El Príncipe Caspian",
+    "author": "C.S. Lewis",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Redwall",
+    "author": "Brian Jacques",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Los Cinco y el Tesoro de la Isla",
+    "author": "Enid Blyton",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Los Cinco se Escapan",
+    "author": "Enid Blyton",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Club de los Siete Secretos",
+    "author": "Enid Blyton",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Fantastic Mr. Fox",
+    "author": "Roald Dahl",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Esio Trot",
+    "author": "Roald Dahl",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Dedo Mágico",
+    "author": "Roald Dahl",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Un Puente hacia Terabithia",
+    "author": "Katherine Paterson",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Holes: Excavando un Futuro Mejor",
+    "author": "Louis Sachar",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Grúfalo",
+    "author": "Julia Donaldson",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Muy Hambriento Gusano",
+    "author": "Eric Carle",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Zoo de Piedra",
+    "author": "Alicia Borrás",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Niño con el Pijama de Rayas",
+    "author": "John Boyne",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Wonder",
+    "author": "R.J. Palacio",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Brújula Dorada",
+    "author": "Philip Pullman",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Diario de Nikki: Crónicas de una Vida Muy Poco Glamurosa",
+    "author": "Rachel Renée Russell",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Percy Jackson y el Mar de los Monstruos",
+    "author": "Rick Riordan",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Los Casos de la Escuela de Magia de Lodo",
+    "author": "Anónimo",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Fantasma de Canterville",
+    "author": "Oscar Wilde",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Peter Pan y Wendy",
+    "author": "J.M. Barrie",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Blancanieves y los Siete Enanitos",
+    "author": "Hermanos Grimm",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Bella Durmiente",
+    "author": "Charles Perrault",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Caperucita Roja",
+    "author": "Charles Perrault",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Gato con Botas",
+    "author": "Charles Perrault",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Cenicienta",
+    "author": "Charles Perrault",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Pulgarcito",
+    "author": "Charles Perrault",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Hansel y Gretel",
+    "author": "Hermanos Grimm",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Rapunzel",
+    "author": "Hermanos Grimm",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Sirenita",
+    "author": "Hans Christian Andersen",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Patito Feo",
+    "author": "Hans Christian Andersen",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Reina de las Nieves",
+    "author": "Hans Christian Andersen",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Traje Nuevo del Emperador",
+    "author": "Hans Christian Andersen",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Pulgarcita",
+    "author": "Hans Christian Andersen",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Soldadito de Plomo",
+    "author": "Hans Christian Andersen",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Ruiseñor y el Emperador",
+    "author": "Hans Christian Andersen",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Vendedora de Fósforos",
+    "author": "Hans Christian Andersen",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El Diario de Nikki 2: Historia de una Fiestera No Tan Fiestera",
+    "author": "Rachel Renée Russell",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Diario de Greg 4: Días de Perros",
+    "author": "Jeff Kinney",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Los Juegos del Hambre: En Llamas",
+    "author": "Suzanne Collins",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Divergente: Insurgente",
+    "author": "Veronica Roth",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Cabaña Mágica del Árbol: Dinosaurios al Anochecer",
+    "author": "Mary Pope Osborne",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Anne con una E: Ana de las Tejas Verdes",
+    "author": "Lucy Maud Montgomery",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Mowgli, el Niño Lobo",
+    "author": "Rudyard Kipling",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "La Vuelta al Mundo de Willy Fog",
+    "author": "Julio Verne",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "El León, la Bruja y el Ropero: Guía Ilustrada",
+    "author": "C.S. Lewis",
+    "genre": "infantil-juvenil"
+  },
+  {
+    "title": "Sapiens: De Animales a Dioses",
+    "author": "Yuval Noah Harari",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "genre": "ensayo"
+  },
+  {
+    "title": "21 Lecciones para el Siglo XXI",
+    "author": "Yuval Noah Harari",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Hombre en Busca de Sentido",
+    "author": "Viktor Frankl",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Educated: Una Educación",
+    "author": "Tara Westover",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Elon Musk",
+    "author": "Walter Isaacson",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Leonardo da Vinci",
+    "author": "Walter Isaacson",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Anatomista",
+    "author": "Walter Isaacson",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Breve Historia del Tiempo",
+    "author": "Stephen Hawking",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Universo en una Cáscara de Nuez",
+    "author": "Stephen Hawking",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Mundo y sus Demonios",
+    "author": "Carl Sagan",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Gen Egoísta",
+    "author": "Richard Dawkins",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Espejismo de Dios",
+    "author": "Richard Dawkins",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Armas, Gérmenes y Acero",
+    "author": "Jared Diamond",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Colapso",
+    "author": "Jared Diamond",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Pensar Rápido, Pensar Despacio",
+    "author": "Daniel Kahneman",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Cisne Negro",
+    "author": "Nassim Nicholas Taleb",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Antifrágil",
+    "author": "Nassim Nicholas Taleb",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Sobre la Libertad",
+    "author": "John Stuart Mill",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Contrato Social",
+    "author": "Jean-Jacques Rousseau",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Príncipe",
+    "author": "Nicolás Maquiavelo",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Capital",
+    "author": "Karl Marx",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Manifiesto Comunista",
+    "author": "Karl Marx y Friedrich Engels",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Así Habló Zaratustra",
+    "author": "Friedrich Nietzsche",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Más Allá del Bien y del Mal",
+    "author": "Friedrich Nietzsche",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Malestar en la Cultura",
+    "author": "Sigmund Freud",
+    "genre": "ensayo"
+  },
+  {
+    "title": "La Interpretación de los Sueños",
+    "author": "Sigmund Freud",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Segundo Sexo",
+    "author": "Simone de Beauvoir",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Una Habitación Propia",
+    "author": "Virginia Woolf",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Vigilar y Castigar",
+    "author": "Michel Foucault",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Arte de la Guerra",
+    "author": "Sun Tzu",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Meditaciones",
+    "author": "Marco Aurelio",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Ética a Nicómaco",
+    "author": "Aristóteles",
+    "genre": "ensayo"
+  },
+  {
+    "title": "La República",
+    "author": "Platón",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Banquete",
+    "author": "Platón",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Desobediencia Civil",
+    "author": "Henry David Thoreau",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Cartas a un Joven Poeta",
+    "author": "Rainer Maria Rilke",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Extranjero: Ensayos sobre el Absurdo",
+    "author": "Albert Camus",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Mito de Sísifo",
+    "author": "Albert Camus",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Los Orígenes del Totalitarismo",
+    "author": "Hannah Arendt",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Eichmann en Jerusalén",
+    "author": "Hannah Arendt",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Sobre la Revolución",
+    "author": "Hannah Arendt",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Fin de la Historia y el Último Hombre",
+    "author": "Francis Fukuyama",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Freakonomics",
+    "author": "Steven Levitt y Stephen J. Dubner",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Superfreakonomics",
+    "author": "Steven Levitt y Stephen J. Dubner",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Nudge: Un Pequeño Empujón",
+    "author": "Richard Thaler y Cass Sunstein",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Sapiens: Una Historia Gráfica",
+    "author": "Yuval Noah Harari",
+    "genre": "ensayo"
+  },
+  {
+    "title": "La Riqueza de las Naciones",
+    "author": "Adam Smith",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Capital en el Siglo XXI",
+    "author": "Thomas Piketty",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Poder y Progreso",
+    "author": "Daron Acemoglu y Simon Johnson",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Por Qué Fracasan los Países",
+    "author": "Daron Acemoglu y James A. Robinson",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Poder de los Hábitos",
+    "author": "Charles Duhigg",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Hábitos Atómicos",
+    "author": "James Clear",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Los 7 Hábitos de la Gente Altamente Efectiva",
+    "author": "Stephen R. Covey",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Inteligencia Emocional",
+    "author": "Daniel Goleman",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Mindset: La Actitud del Éxito",
+    "author": "Carol S. Dweck",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Grit: El Poder de la Pasión y la Perseverancia",
+    "author": "Angela Duckworth",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Flow: Fluir",
+    "author": "Mihaly Csikszentmihalyi",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Hombre que Confundió a su Mujer con un Sombrero",
+    "author": "Oliver Sacks",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Cuando el Aliento se Convierte en Aire",
+    "author": "Paul Kalanithi",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Cuerpo Nunca Miente",
+    "author": "Alice Miller",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Cerebro y el Mito del Yo",
+    "author": "Rodolfo Llinás",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Actos de Significado",
+    "author": "Jerome Bruner",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Instinto del Lenguaje",
+    "author": "Steven Pinker",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Los Ángeles que Llevamos Dentro",
+    "author": "Steven Pinker",
+    "genre": "ensayo"
+  },
+  {
+    "title": "En Defensa de la Ilustración",
+    "author": "Steven Pinker",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Silent Spring: Primavera Silenciosa",
+    "author": "Rachel Carson",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Esto lo Cambia Todo",
+    "author": "Naomi Klein",
+    "genre": "ensayo"
+  },
+  {
+    "title": "No Logo",
+    "author": "Naomi Klein",
+    "genre": "ensayo"
+  },
+  {
+    "title": "La Doctrina del Shock",
+    "author": "Naomi Klein",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Las Venas Abiertas de América Latina",
+    "author": "Eduardo Galeano",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Memoria del Fuego",
+    "author": "Eduardo Galeano",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Vivir para Contarla",
+    "author": "Gabriel García Márquez",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Olvido que Seremos",
+    "author": "Héctor Abad Faciolince",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Ensayos",
+    "author": "Michel de Montaigne",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Utopía",
+    "author": "Tomás Moro",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Malestar de la Globalización",
+    "author": "Joseph Stiglitz",
+    "genre": "ensayo"
+  },
+  {
+    "title": "La Economía del Bien Común",
+    "author": "Jean Tirole",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Repensar la Pobreza",
+    "author": "Abhijit Banerjee y Esther Duflo",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Cerebro Idiota",
+    "author": "Dean Burnett",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Gen: Una Historia Personal",
+    "author": "Siddhartha Mukherjee",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Emperador de Todos los Males",
+    "author": "Siddhartha Mukherjee",
+    "genre": "ensayo"
+  },
+  {
+    "title": "La Estructura de las Revoluciones Científicas",
+    "author": "Thomas Kuhn",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Reloj y la Mosca",
+    "author": "Nicholas P. Money",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Sobre la Tiranía",
+    "author": "Timothy Snyder",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Tierras de Sangre",
+    "author": "Timothy Snyder",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Origen de las Especies",
+    "author": "Charles Darwin",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Descenso del Hombre",
+    "author": "Charles Darwin",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Cosmópolis: Ensayos sobre la Modernidad",
+    "author": "Stephen Toulmin",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Fin del Trabajo",
+    "author": "Jeremy Rifkin",
+    "genre": "ensayo"
+  },
+  {
+    "title": "La Sociedad del Coste Marginal Cero",
+    "author": "Jeremy Rifkin",
+    "genre": "ensayo"
+  },
+  {
+    "title": "La Cuarta Revolución Industrial",
+    "author": "Klaus Schwab",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Sapiens: La Humanidad Ilustrada",
+    "author": "Yuval Noah Harari",
+    "genre": "ensayo"
+  },
+  {
+    "title": "El Camino a la Servidumbre",
+    "author": "Friedrich Hayek",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Capitalismo y Libertad",
+    "author": "Milton Friedman",
+    "genre": "ensayo"
+  },
+  {
+    "title": "La Riqueza y la Pobreza de las Naciones",
+    "author": "David S. Landes",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Breve Historia de Casi Todo",
+    "author": "Bill Bryson",
+    "genre": "ensayo"
+  },
+  {
+    "title": "Veinte Poemas de Amor y una Canción Desesperada",
+    "author": "Pablo Neruda",
+    "genre": "poesia"
+  },
+  {
+    "title": "Canto General",
+    "author": "Pablo Neruda",
+    "genre": "poesia"
+  },
+  {
+    "title": "Odas Elementales",
+    "author": "Pablo Neruda",
+    "genre": "poesia"
+  },
+  {
+    "title": "Cien Sonetos de Amor",
+    "author": "Pablo Neruda",
+    "genre": "poesia"
+  },
+  {
+    "title": "Residencia en la Tierra",
+    "author": "Pablo Neruda",
+    "genre": "poesia"
+  },
+  {
+    "title": "Romancero Gitano",
+    "author": "Federico García Lorca",
+    "genre": "poesia"
+  },
+  {
+    "title": "Poeta en Nueva York",
+    "author": "Federico García Lorca",
+    "genre": "poesia"
+  },
+  {
+    "title": "Libro de Poemas",
+    "author": "Federico García Lorca",
+    "genre": "poesia"
+  },
+  {
+    "title": "Rimas",
+    "author": "Gustavo Adolfo Bécquer",
+    "genre": "poesia"
+  },
+  {
+    "title": "Leyendas",
+    "author": "Gustavo Adolfo Bécquer",
+    "genre": "poesia"
+  },
+  {
+    "title": "Antología Poética",
+    "author": "Antonio Machado",
+    "genre": "poesia"
+  },
+  {
+    "title": "Campos de Castilla",
+    "author": "Antonio Machado",
+    "genre": "poesia"
+  },
+  {
+    "title": "Soledades",
+    "author": "Antonio Machado",
+    "genre": "poesia"
+  },
+  {
+    "title": "Platero y Yo",
+    "author": "Juan Ramón Jiménez",
+    "genre": "poesia"
+  },
+  {
+    "title": "Diario de un Poeta Recién Casado",
+    "author": "Juan Ramón Jiménez",
+    "genre": "poesia"
+  },
+  {
+    "title": "Trilce",
+    "author": "César Vallejo",
+    "genre": "poesia"
+  },
+  {
+    "title": "Los Heraldos Negros",
+    "author": "César Vallejo",
+    "genre": "poesia"
+  },
+  {
+    "title": "Poemas Humanos",
+    "author": "César Vallejo",
+    "genre": "poesia"
+  },
+  {
+    "title": "Veinte Poemas para Ser Leídos en el Tranvía",
+    "author": "Oliverio Girondo",
+    "genre": "poesia"
+  },
+  {
+    "title": "El Otro, el Mismo",
+    "author": "Jorge Luis Borges",
+    "genre": "poesia"
+  },
+  {
+    "title": "Fervor de Buenos Aires",
+    "author": "Jorge Luis Borges",
+    "genre": "poesia"
+  },
+  {
+    "title": "Elogio de la Sombra",
+    "author": "Jorge Luis Borges",
+    "genre": "poesia"
+  },
+  {
+    "title": "Nocturno de San Ildefonso",
+    "author": "Octavio Paz",
+    "genre": "poesia"
+  },
+  {
+    "title": "Piedra de Sol",
+    "author": "Octavio Paz",
+    "genre": "poesia"
+  },
+  {
+    "title": "Libertad Bajo Palabra",
+    "author": "Octavio Paz",
+    "genre": "poesia"
+  },
+  {
+    "title": "Hojas de Hierba",
+    "author": "Walt Whitman",
+    "genre": "poesia"
+  },
+  {
+    "title": "Cantos de Inocencia y de Experiencia",
+    "author": "William Blake",
+    "genre": "poesia"
+  },
+  {
+    "title": "El Cuervo",
+    "author": "Edgar Allan Poe",
+    "genre": "poesia"
+  },
+  {
+    "title": "Las Flores del Mal",
+    "author": "Charles Baudelaire",
+    "genre": "poesia"
+  },
+  {
+    "title": "Una Temporada en el Infierno",
+    "author": "Arthur Rimbaud",
+    "genre": "poesia"
+  },
+  {
+    "title": "Iluminaciones",
+    "author": "Arthur Rimbaud",
+    "genre": "poesia"
+  },
+  {
+    "title": "Poemas Saturnianos",
+    "author": "Paul Verlaine",
+    "genre": "poesia"
+  },
+  {
+    "title": "Elegías de Duino",
+    "author": "Rainer Maria Rilke",
+    "genre": "poesia"
+  },
+  {
+    "title": "El Libro de Horas",
+    "author": "Rainer Maria Rilke",
+    "genre": "poesia"
+  },
+  {
+    "title": "Sonetos a Orfeo",
+    "author": "Rainer Maria Rilke",
+    "genre": "poesia"
+  },
+  {
+    "title": "La Divina Comedia",
+    "author": "Dante Alighieri",
+    "genre": "poesia"
+  },
+  {
+    "title": "Cancionero",
+    "author": "Francesco Petrarca",
+    "genre": "poesia"
+  },
+  {
+    "title": "Sonetos",
+    "author": "William Shakespeare",
+    "genre": "poesia"
+  },
+  {
+    "title": "Paraíso Perdido",
+    "author": "John Milton",
+    "genre": "poesia"
+  },
+  {
+    "title": "La Balada del Viejo Marinero",
+    "author": "Samuel Taylor Coleridge",
+    "genre": "poesia"
+  },
+  {
+    "title": "Oda a un Ruiseñor",
+    "author": "John Keats",
+    "genre": "poesia"
+  },
+  {
+    "title": "Oda al Viento del Oeste",
+    "author": "Percy Bysshe Shelley",
+    "genre": "poesia"
+  },
+  {
+    "title": "Don Juan",
+    "author": "Lord Byron",
+    "genre": "poesia"
+  },
+  {
+    "title": "Peregrinación de Childe Harold",
+    "author": "Lord Byron",
+    "genre": "poesia"
+  },
+  {
+    "title": "Espantapájaros",
+    "author": "Oliverio Girondo",
+    "genre": "poesia"
+  },
+  {
+    "title": "Poemas y Antipoemas",
+    "author": "Nicanor Parra",
+    "genre": "poesia"
+  },
+  {
+    "title": "La Rosa Separada",
+    "author": "Pablo Neruda",
+    "genre": "poesia"
+  },
+  {
+    "title": "Estravagario",
+    "author": "Pablo Neruda",
+    "genre": "poesia"
+  },
+  {
+    "title": "Confieso que He Vivido",
+    "author": "Pablo Neruda",
+    "genre": "poesia"
+  },
+  {
+    "title": "Marinero en Tierra",
+    "author": "Rafael Alberti",
+    "genre": "poesia"
+  },
+  {
+    "title": "Sobre los Ángeles",
+    "author": "Rafael Alberti",
+    "genre": "poesia"
+  },
+  {
+    "title": "La Voz a Ti Debida",
+    "author": "Pedro Salinas",
+    "genre": "poesia"
+  },
+  {
+    "title": "Cántico",
+    "author": "Jorge Guillén",
+    "genre": "poesia"
+  },
+  {
+    "title": "Perito en Lunas",
+    "author": "Miguel Hernández",
+    "genre": "poesia"
+  },
+  {
+    "title": "El Rayo que no Cesa",
+    "author": "Miguel Hernández",
+    "genre": "poesia"
+  },
+  {
+    "title": "Cancionero y Romancero de Ausencias",
+    "author": "Miguel Hernández",
+    "genre": "poesia"
+  },
+  {
+    "title": "La Tierra Baldía",
+    "author": "T.S. Eliot",
+    "genre": "poesia"
+  },
+  {
+    "title": "Cuatro Cuartetos",
+    "author": "T.S. Eliot",
+    "genre": "poesia"
+  },
+  {
+    "title": "Aullido",
+    "author": "Allen Ginsberg",
+    "genre": "poesia"
+  },
+  {
+    "title": "Ariel",
+    "author": "Sylvia Plath",
+    "genre": "poesia"
+  },
+  {
+    "title": "Poemas Completos",
+    "author": "Emily Dickinson",
+    "genre": "poesia"
+  },
+  {
+    "title": "El Cementerio Marino",
+    "author": "Paul Valéry",
+    "genre": "poesia"
+  },
+  {
+    "title": "Alcools",
+    "author": "Guillaume Apollinaire",
+    "genre": "poesia"
+  },
+  {
+    "title": "Caligramas",
+    "author": "Guillaume Apollinaire",
+    "genre": "poesia"
+  },
+  {
+    "title": "Un Golpe de Dados Jamás Abolirá el Azar",
+    "author": "Stéphane Mallarmé",
+    "genre": "poesia"
+  },
+  {
+    "title": "Poesías",
+    "author": "Stéphane Mallarmé",
+    "genre": "poesia"
+  },
+  {
+    "title": "Poema del Cante Jondo",
+    "author": "Federico García Lorca",
+    "genre": "poesia"
+  },
+  {
+    "title": "Sonetos del Amor Oscuro",
+    "author": "Federico García Lorca",
+    "genre": "poesia"
+  },
+  {
+    "title": "Los Versos del Capitán",
+    "author": "Pablo Neruda",
+    "genre": "poesia"
+  },
+  {
+    "title": "El Hondero Entusiasta",
+    "author": "Pablo Neruda",
+    "genre": "poesia"
+  },
+  {
+    "title": "Anillos",
+    "author": "Pablo Neruda",
+    "genre": "poesia"
+  },
+  {
+    "title": "Poemas de Amor",
+    "author": "Jaime Sabines",
+    "genre": "poesia"
+  },
+  {
+    "title": "Horal",
+    "author": "Jaime Sabines",
+    "genre": "poesia"
+  },
+  {
+    "title": "Espadas como Labios",
+    "author": "Vicente Aleixandre",
+    "genre": "poesia"
+  },
+  {
+    "title": "La Destrucción o el Amor",
+    "author": "Vicente Aleixandre",
+    "genre": "poesia"
+  },
+  {
+    "title": "Sombra del Paraíso",
+    "author": "Vicente Aleixandre",
+    "genre": "poesia"
+  },
+  {
+    "title": "Los Cuatro Cuartetos",
+    "author": "T.S. Eliot",
+    "genre": "poesia"
+  },
+  {
+    "title": "Canción de mí Mismo",
+    "author": "Walt Whitman",
+    "genre": "poesia"
+  },
+  {
+    "title": "La Tierra Prometida",
+    "author": "Rubén Darío",
+    "genre": "poesia"
+  },
+  {
+    "title": "Azul...",
+    "author": "Rubén Darío",
+    "genre": "poesia"
+  },
+  {
+    "title": "Cantos de Vida y Esperanza",
+    "author": "Rubén Darío",
+    "genre": "poesia"
+  },
+  {
+    "title": "Prosas Profanas",
+    "author": "Rubén Darío",
+    "genre": "poesia"
+  },
+  {
+    "title": "Poemas de la Oficina",
+    "author": "Mario Benedetti",
+    "genre": "poesia"
+  },
+  {
+    "title": "Inventario",
+    "author": "Mario Benedetti",
+    "genre": "poesia"
+  },
+  {
+    "title": "La Vida Breve: Poemas",
+    "author": "Mario Benedetti",
+    "genre": "poesia"
+  },
+  {
+    "title": "Poemas Árticos",
+    "author": "Vicente Huidobro",
+    "genre": "poesia"
+  },
+  {
+    "title": "Altazor",
+    "author": "Vicente Huidobro",
+    "genre": "poesia"
+  },
+  {
+    "title": "Los Cielos que Habitamos",
+    "author": "Blanca Varela",
+    "genre": "poesia"
+  },
+  {
+    "title": "Un Libro de Piedad",
+    "author": "Blanca Varela",
+    "genre": "poesia"
+  },
+  {
+    "title": "Ceniza de Sol",
+    "author": "Delmira Agustini",
+    "genre": "poesia"
+  },
+  {
+    "title": "Los Cálices Vacíos",
+    "author": "Delmira Agustini",
+    "genre": "poesia"
+  },
+  {
+    "title": "La Voz Dormida",
+    "author": "Gioconda Belli",
+    "genre": "poesia"
+  },
+  {
+    "title": "Sobre la Grama",
+    "author": "Gioconda Belli",
+    "genre": "poesia"
+  },
+  {
+    "title": "El País Bajo mi Piel",
+    "author": "Gioconda Belli",
+    "genre": "poesia"
+  },
+  {
+    "title": "Antología Poética",
+    "author": "Idea Vilariño",
+    "genre": "poesia"
+  },
+  {
+    "title": "Poemas de Amor",
+    "author": "Idea Vilariño",
+    "genre": "poesia"
+  },
+  {
+    "title": "Fervor",
+    "author": "Jorge Guillén",
+    "genre": "poesia"
+  },
+  {
+    "title": "Los Signos entre Nosotros",
+    "author": "Vicente Aleixandre",
+    "genre": "poesia"
+  },
+  {
+    "title": "Historia del Corazón",
+    "author": "Vicente Aleixandre",
+    "genre": "poesia"
+  },
+  {
+    "title": "El Alma en los Labios",
+    "author": "Medardo Ángel Silva",
+    "genre": "poesia"
+  }
+]

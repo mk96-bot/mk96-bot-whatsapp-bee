@@ -1,0 +1,4818 @@
+[
+  {
+    "title": "Mad Max: Fury Road",
+    "genre": "accion"
+  },
+  {
+    "title": "Duro de Matar",
+    "genre": "accion"
+  },
+  {
+    "title": "John Wick",
+    "genre": "accion"
+  },
+  {
+    "title": "Terminator 2: El Juicio Final",
+    "genre": "accion"
+  },
+  {
+    "title": "Misión Imposible: Fallout",
+    "genre": "accion"
+  },
+  {
+    "title": "Gladiator",
+    "genre": "accion"
+  },
+  {
+    "title": "300",
+    "genre": "accion"
+  },
+  {
+    "title": "Speed: Máxima Potencia",
+    "genre": "accion"
+  },
+  {
+    "title": "Punto Límite",
+    "genre": "accion"
+  },
+  {
+    "title": "Con Air",
+    "genre": "accion"
+  },
+  {
+    "title": "La Roca",
+    "genre": "accion"
+  },
+  {
+    "title": "Desafío Total",
+    "genre": "accion"
+  },
+  {
+    "title": "Depredador",
+    "genre": "accion"
+  },
+  {
+    "title": "Rambo: Acorralado",
+    "genre": "accion"
+  },
+  {
+    "title": "RoboCop",
+    "genre": "accion"
+  },
+  {
+    "title": "Salvar al Soldado Ryan",
+    "genre": "accion"
+  },
+  {
+    "title": "Black Hawk Derribado",
+    "genre": "accion"
+  },
+  {
+    "title": "Heat",
+    "genre": "accion"
+  },
+  {
+    "title": "El Fugitivo",
+    "genre": "accion"
+  },
+  {
+    "title": "Air Force One",
+    "genre": "accion"
+  },
+  {
+    "title": "xXx",
+    "genre": "accion"
+  },
+  {
+    "title": "Rápidos y Furiosos 7",
+    "genre": "accion"
+  },
+  {
+    "title": "Top Gun",
+    "genre": "accion"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "genre": "accion"
+  },
+  {
+    "title": "Godzilla vs. Kong",
+    "genre": "accion"
+  },
+  {
+    "title": "Kingsman: Servicio Secreto",
+    "genre": "accion"
+  },
+  {
+    "title": "Atómica",
+    "genre": "accion"
+  },
+  {
+    "title": "Sicario",
+    "genre": "accion"
+  },
+  {
+    "title": "Némesis",
+    "genre": "accion"
+  },
+  {
+    "title": "Jack Reacher",
+    "genre": "accion"
+  },
+  {
+    "title": "Ip Man",
+    "genre": "accion"
+  },
+  {
+    "title": "Tigre y Dragón",
+    "genre": "accion"
+  },
+  {
+    "title": "El Renacido",
+    "genre": "accion"
+  },
+  {
+    "title": "Wonder Woman",
+    "genre": "accion"
+  },
+  {
+    "title": "Black Panther",
+    "genre": "accion"
+  },
+  {
+    "title": "Los Vengadores",
+    "genre": "accion"
+  },
+  {
+    "title": "Capitán América: El Soldado de Invierno",
+    "genre": "accion"
+  },
+  {
+    "title": "Logan",
+    "genre": "accion"
+  },
+  {
+    "title": "Deadpool",
+    "genre": "accion"
+  },
+  {
+    "title": "X2",
+    "genre": "accion"
+  },
+  {
+    "title": "Watchmen",
+    "genre": "accion"
+  },
+  {
+    "title": "V de Vendetta",
+    "genre": "accion"
+  },
+  {
+    "title": "Kill Bill: Volumen 1",
+    "genre": "accion"
+  },
+  {
+    "title": "Kill Bill: Volumen 2",
+    "genre": "accion"
+  },
+  {
+    "title": "The Equalizer",
+    "genre": "accion"
+  },
+  {
+    "title": "Venganza",
+    "genre": "accion"
+  },
+  {
+    "title": "Olympus ha Caído",
+    "genre": "accion"
+  },
+  {
+    "title": "White House Down",
+    "genre": "accion"
+  },
+  {
+    "title": "Battleship",
+    "genre": "accion"
+  },
+  {
+    "title": "Independence Day",
+    "genre": "accion"
+  },
+  {
+    "title": "Transformers",
+    "genre": "accion"
+  },
+  {
+    "title": "Pacific Rim",
+    "genre": "accion"
+  },
+  {
+    "title": "Godzilla (2014)",
+    "genre": "accion"
+  },
+  {
+    "title": "King Kong (2005)",
+    "genre": "accion"
+  },
+  {
+    "title": "Skyfall",
+    "genre": "accion"
+  },
+  {
+    "title": "Casino Royale",
+    "genre": "accion"
+  },
+  {
+    "title": "GoldenEye",
+    "genre": "accion"
+  },
+  {
+    "title": "Misión Imposible",
+    "genre": "accion"
+  },
+  {
+    "title": "Misión Imposible II",
+    "genre": "accion"
+  },
+  {
+    "title": "Misión Imposible: Nación Secreta",
+    "genre": "accion"
+  },
+  {
+    "title": "El Ultimátum de Bourne",
+    "genre": "accion"
+  },
+  {
+    "title": "Identidad Desconocida",
+    "genre": "accion"
+  },
+  {
+    "title": "Supremacía Bourne",
+    "genre": "accion"
+  },
+  {
+    "title": "El Caballero Oscuro",
+    "genre": "accion"
+  },
+  {
+    "title": "El Caballero Oscuro: La Leyenda Renace",
+    "genre": "accion"
+  },
+  {
+    "title": "Man of Steel",
+    "genre": "accion"
+  },
+  {
+    "title": "Aquaman",
+    "genre": "accion"
+  },
+  {
+    "title": "Escuadrón Suicida",
+    "genre": "accion"
+  },
+  {
+    "title": "Guardianes de la Galaxia",
+    "genre": "accion"
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "genre": "accion"
+  },
+  {
+    "title": "Iron Man",
+    "genre": "accion"
+  },
+  {
+    "title": "Iron Man 3",
+    "genre": "accion"
+  },
+  {
+    "title": "Capitán América: Civil War",
+    "genre": "accion"
+  },
+  {
+    "title": "Vengadores: Infinity War",
+    "genre": "accion"
+  },
+  {
+    "title": "Vengadores: Endgame",
+    "genre": "accion"
+  },
+  {
+    "title": "Star Wars: Una Nueva Esperanza",
+    "genre": "accion"
+  },
+  {
+    "title": "Star Wars: El Imperio Contraataca",
+    "genre": "accion"
+  },
+  {
+    "title": "Rogue One",
+    "genre": "accion"
+  },
+  {
+    "title": "Dunkerque",
+    "genre": "accion"
+  },
+  {
+    "title": "1917",
+    "genre": "accion"
+  },
+  {
+    "title": "La Caza del Octubre Rojo",
+    "genre": "accion"
+  },
+  {
+    "title": "Días de Trueno",
+    "genre": "accion"
+  },
+  {
+    "title": "Rocky IV",
+    "genre": "accion"
+  },
+  {
+    "title": "Creed",
+    "genre": "accion"
+  },
+  {
+    "title": "Karate Kid",
+    "genre": "accion"
+  },
+  {
+    "title": "El Último Samurái",
+    "genre": "accion"
+  },
+  {
+    "title": "300: El Origen de un Imperio",
+    "genre": "accion"
+  },
+  {
+    "title": "Furia de Titanes",
+    "genre": "accion"
+  },
+  {
+    "title": "Percy Jackson y el Ladrón del Rayo",
+    "genre": "accion"
+  },
+  {
+    "title": "Jumanji: Bienvenidos a la Jungla",
+    "genre": "accion"
+  },
+  {
+    "title": "Jurassic World",
+    "genre": "accion"
+  },
+  {
+    "title": "Godzilla: Rey de los Monstruos",
+    "genre": "accion"
+  },
+  {
+    "title": "San Andrés",
+    "genre": "accion"
+  },
+  {
+    "title": "2012",
+    "genre": "accion"
+  },
+  {
+    "title": "El Día Después de Mañana",
+    "genre": "accion"
+  },
+  {
+    "title": "El Retorno del Jedi",
+    "genre": "accion"
+  },
+  {
+    "title": "Duro de Matar: La Venganza",
+    "genre": "accion"
+  },
+  {
+    "title": "Duro de Matar 4.0",
+    "genre": "accion"
+  },
+  {
+    "title": "Jason Bourne",
+    "genre": "accion"
+  },
+  {
+    "title": "Misión de Rescate",
+    "genre": "accion"
+  },
+  {
+    "title": "Superfumados",
+    "genre": "comedia"
+  },
+  {
+    "title": "Resacón en Las Vegas",
+    "genre": "comedia"
+  },
+  {
+    "title": "Resacón 2: Ahora en Tailandia",
+    "genre": "comedia"
+  },
+  {
+    "title": "American Pie",
+    "genre": "comedia"
+  },
+  {
+    "title": "Scary Movie",
+    "genre": "comedia"
+  },
+  {
+    "title": "Ace Ventura: Detective de Mascotas",
+    "genre": "comedia"
+  },
+  {
+    "title": "La Máscara",
+    "genre": "comedia"
+  },
+  {
+    "title": "Dos Tontos Muy Tontos",
+    "genre": "comedia"
+  },
+  {
+    "title": "Zoolander",
+    "genre": "comedia"
+  },
+  {
+    "title": "Cazafantasmas",
+    "genre": "comedia"
+  },
+  {
+    "title": "Cazafantasmas II",
+    "genre": "comedia"
+  },
+  {
+    "title": "Los Locos Addams",
+    "genre": "comedia"
+  },
+  {
+    "title": "Loca Academia de Policía",
+    "genre": "comedia"
+  },
+  {
+    "title": "Elf",
+    "genre": "comedia"
+  },
+  {
+    "title": "Click",
+    "genre": "comedia"
+  },
+  {
+    "title": "Un Papá Genial",
+    "genre": "comedia"
+  },
+  {
+    "title": "50 Primeras Citas",
+    "genre": "comedia"
+  },
+  {
+    "title": "Hombres de Negro",
+    "genre": "comedia"
+  },
+  {
+    "title": "Space Jam",
+    "genre": "comedia"
+  },
+  {
+    "title": "Solteros de Oro",
+    "genre": "comedia"
+  },
+  {
+    "title": "Superdetective en Hollywood",
+    "genre": "comedia"
+  },
+  {
+    "title": "Todo en un Día",
+    "genre": "comedia"
+  },
+  {
+    "title": "Fuera de Onda",
+    "genre": "comedia"
+  },
+  {
+    "title": "Chicas Malas",
+    "genre": "comedia"
+  },
+  {
+    "title": "Legalmente Rubia",
+    "genre": "comedia"
+  },
+  {
+    "title": "Espía como Puedas",
+    "genre": "comedia"
+  },
+  {
+    "title": "Y Entonces Llegó Ella",
+    "genre": "comedia"
+  },
+  {
+    "title": "Cómo Perder a un Chico en 10 Días",
+    "genre": "comedia"
+  },
+  {
+    "title": "40 Años Virgen",
+    "genre": "comedia"
+  },
+  {
+    "title": "Ligeramente Embarazada",
+    "genre": "comedia"
+  },
+  {
+    "title": "Anchorman: La Leyenda de Ron Burgundy",
+    "genre": "comedia"
+  },
+  {
+    "title": "Dos Policías Rebeldes",
+    "genre": "comedia"
+  },
+  {
+    "title": "Los Padres de Ella",
+    "genre": "comedia"
+  },
+  {
+    "title": "Los Padres de Él",
+    "genre": "comedia"
+  },
+  {
+    "title": "Escuela de Rock",
+    "genre": "comedia"
+  },
+  {
+    "title": "Este Chico es un Demonio",
+    "genre": "comedia"
+  },
+  {
+    "title": "Solo en Casa",
+    "genre": "comedia"
+  },
+  {
+    "title": "Solo en Casa 2",
+    "genre": "comedia"
+  },
+  {
+    "title": "El Diario de Bridget Jones",
+    "genre": "comedia"
+  },
+  {
+    "title": "Loco por Mary",
+    "genre": "comedia"
+  },
+  {
+    "title": "Shrek",
+    "genre": "comedia"
+  },
+  {
+    "title": "Shrek 2",
+    "genre": "comedia"
+  },
+  {
+    "title": "Shrek Tercero",
+    "genre": "comedia"
+  },
+  {
+    "title": "Shrek para Siempre",
+    "genre": "comedia"
+  },
+  {
+    "title": "Austin Powers: Agente Internacional",
+    "genre": "comedia"
+  },
+  {
+    "title": "Austin Powers: La Espía que me Achuchó",
+    "genre": "comedia"
+  },
+  {
+    "title": "Torrente, el Brazo Tonto de la Ley",
+    "genre": "comedia"
+  },
+  {
+    "title": "Aterriza Como Puedas",
+    "genre": "comedia"
+  },
+  {
+    "title": "La Cena de los Tontos",
+    "genre": "comedia"
+  },
+  {
+    "title": "Grease",
+    "genre": "comedia"
+  },
+  {
+    "title": "Footloose",
+    "genre": "comedia"
+  },
+  {
+    "title": "Con Faldas y a lo Loco",
+    "genre": "comedia"
+  },
+  {
+    "title": "Big: Quiero ser Grande",
+    "genre": "comedia"
+  },
+  {
+    "title": "Legalmente Rubia 2",
+    "genre": "comedia"
+  },
+  {
+    "title": "Yes Man",
+    "genre": "comedia"
+  },
+  {
+    "title": "Free Guy",
+    "genre": "comedia"
+  },
+  {
+    "title": "Jumanji: Bienvenidos a la Jungla",
+    "genre": "comedia"
+  },
+  {
+    "title": "Jumanji: El Siguiente Nivel",
+    "genre": "comedia"
+  },
+  {
+    "title": "Zombieland",
+    "genre": "comedia"
+  },
+  {
+    "title": "Zombieland: Tiro de Gracia",
+    "genre": "comedia"
+  },
+  {
+    "title": "Padres por Sorpresa",
+    "genre": "comedia"
+  },
+  {
+    "title": "Los Otros Dos",
+    "genre": "comedia"
+  },
+  {
+    "title": "Jefes Fuera de Control",
+    "genre": "comedia"
+  },
+  {
+    "title": "Jefes Fuera de Control 2",
+    "genre": "comedia"
+  },
+  {
+    "title": "Malditos Vecinos",
+    "genre": "comedia"
+  },
+  {
+    "title": "Malditos Vecinos 2",
+    "genre": "comedia"
+  },
+  {
+    "title": "La Boda de mi Mejor Amiga",
+    "genre": "comedia"
+  },
+  {
+    "title": "De Boda en Boda",
+    "genre": "comedia"
+  },
+  {
+    "title": "Barbershop",
+    "genre": "comedia"
+  },
+  {
+    "title": "Napoleon Dynamite",
+    "genre": "comedia"
+  },
+  {
+    "title": "El Gran Lebowski",
+    "genre": "comedia"
+  },
+  {
+    "title": "Atrapado en el Tiempo",
+    "genre": "comedia"
+  },
+  {
+    "title": "Loco por el Golf",
+    "genre": "comedia"
+  },
+  {
+    "title": "Billy Madison",
+    "genre": "comedia"
+  },
+  {
+    "title": "El Aguador",
+    "genre": "comedia"
+  },
+  {
+    "title": "Kingpin: El Rey de los Bolos",
+    "genre": "comedia"
+  },
+  {
+    "title": "Dando la Nota",
+    "genre": "comedia"
+  },
+  {
+    "title": "Dando la Nota 2",
+    "genre": "comedia"
+  },
+  {
+    "title": "Mamma Mia!",
+    "genre": "comedia"
+  },
+  {
+    "title": "Mamma Mia! Una y Otra Vez",
+    "genre": "comedia"
+  },
+  {
+    "title": "El Diario de Greg",
+    "genre": "comedia"
+  },
+  {
+    "title": "Trolls",
+    "genre": "comedia"
+  },
+  {
+    "title": "La La Land",
+    "genre": "comedia"
+  },
+  {
+    "title": "Barbie",
+    "genre": "comedia"
+  },
+  {
+    "title": "Deadpool 2",
+    "genre": "comedia"
+  },
+  {
+    "title": "Kung Fu Panda",
+    "genre": "comedia"
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "genre": "comedia"
+  },
+  {
+    "title": "Madagascar",
+    "genre": "comedia"
+  },
+  {
+    "title": "Los Pingüinos de Madagascar",
+    "genre": "comedia"
+  },
+  {
+    "title": "Ted",
+    "genre": "comedia"
+  },
+  {
+    "title": "Ted 2",
+    "genre": "comedia"
+  },
+  {
+    "title": "21 Jump Street",
+    "genre": "comedia"
+  },
+  {
+    "title": "22 Jump Street",
+    "genre": "comedia"
+  },
+  {
+    "title": "Corre, Que Te Pillo",
+    "genre": "comedia"
+  },
+  {
+    "title": "Un Espía y Medio",
+    "genre": "comedia"
+  },
+  {
+    "title": "Central Intelligence",
+    "genre": "comedia"
+  },
+  {
+    "title": "Este es el Fin",
+    "genre": "comedia"
+  },
+  {
+    "title": "Booksmart",
+    "genre": "comedia"
+  },
+  {
+    "title": "Palm Springs",
+    "genre": "comedia"
+  },
+  {
+    "title": "El Especialista sin Rival",
+    "genre": "comedia"
+  },
+  {
+    "title": "Cadena Perpetua",
+    "genre": "drama"
+  },
+  {
+    "title": "El Padrino",
+    "genre": "drama"
+  },
+  {
+    "title": "El Padrino Parte II",
+    "genre": "drama"
+  },
+  {
+    "title": "Forrest Gump",
+    "genre": "drama"
+  },
+  {
+    "title": "Titanic",
+    "genre": "drama"
+  },
+  {
+    "title": "La Lista de Schindler",
+    "genre": "drama"
+  },
+  {
+    "title": "Doce Hombres sin Piedad",
+    "genre": "drama"
+  },
+  {
+    "title": "Uno de los Nuestros",
+    "genre": "drama"
+  },
+  {
+    "title": "El Pianista",
+    "genre": "drama"
+  },
+  {
+    "title": "Belleza Americana",
+    "genre": "drama"
+  },
+  {
+    "title": "El Discurso del Rey",
+    "genre": "drama"
+  },
+  {
+    "title": "Moonlight",
+    "genre": "drama"
+  },
+  {
+    "title": "Spotlight",
+    "genre": "drama"
+  },
+  {
+    "title": "Green Book",
+    "genre": "drama"
+  },
+  {
+    "title": "Whiplash",
+    "genre": "drama"
+  },
+  {
+    "title": "Manchester Frente al Mar",
+    "genre": "drama"
+  },
+  {
+    "title": "La La Land",
+    "genre": "drama"
+  },
+  {
+    "title": "Her",
+    "genre": "drama"
+  },
+  {
+    "title": "El Lobo de Wall Street",
+    "genre": "drama"
+  },
+  {
+    "title": "Birdman",
+    "genre": "drama"
+  },
+  {
+    "title": "Million Dollar Baby",
+    "genre": "drama"
+  },
+  {
+    "title": "Mystic River",
+    "genre": "drama"
+  },
+  {
+    "title": "En Tierra Hostil",
+    "genre": "drama"
+  },
+  {
+    "title": "Crash",
+    "genre": "drama"
+  },
+  {
+    "title": "Precious",
+    "genre": "drama"
+  },
+  {
+    "title": "12 Años de Esclavitud",
+    "genre": "drama"
+  },
+  {
+    "title": "Belfast",
+    "genre": "drama"
+  },
+  {
+    "title": "CODA",
+    "genre": "drama"
+  },
+  {
+    "title": "Nomadland",
+    "genre": "drama"
+  },
+  {
+    "title": "Roma",
+    "genre": "drama"
+  },
+  {
+    "title": "Parásitos",
+    "genre": "drama"
+  },
+  {
+    "title": "Amor",
+    "genre": "drama"
+  },
+  {
+    "title": "La Habitación",
+    "genre": "drama"
+  },
+  {
+    "title": "El Lado Bueno de las Cosas",
+    "genre": "drama"
+  },
+  {
+    "title": "Boyhood: Momentos de una Vida",
+    "genre": "drama"
+  },
+  {
+    "title": "El Curioso Caso de Benjamin Button",
+    "genre": "drama"
+  },
+  {
+    "title": "Náufrago",
+    "genre": "drama"
+  },
+  {
+    "title": "Big Fish",
+    "genre": "drama"
+  },
+  {
+    "title": "Trainspotting",
+    "genre": "drama"
+  },
+  {
+    "title": "Réquiem por un Sueño",
+    "genre": "drama"
+  },
+  {
+    "title": "El Club de la Lucha",
+    "genre": "drama"
+  },
+  {
+    "title": "El Indomable Will Hunting",
+    "genre": "drama"
+  },
+  {
+    "title": "Una Mente Maravillosa",
+    "genre": "drama"
+  },
+  {
+    "title": "Philadelphia",
+    "genre": "drama"
+  },
+  {
+    "title": "Dallas Buyers Club",
+    "genre": "drama"
+  },
+  {
+    "title": "La Teoría del Todo",
+    "genre": "drama"
+  },
+  {
+    "title": "Yo, Tonya",
+    "genre": "drama"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "genre": "drama"
+  },
+  {
+    "title": "Rocketman",
+    "genre": "drama"
+  },
+  {
+    "title": "Ray",
+    "genre": "drama"
+  },
+  {
+    "title": "Walk the Line",
+    "genre": "drama"
+  },
+  {
+    "title": "El Diario de Noa",
+    "genre": "drama"
+  },
+  {
+    "title": "Mensaje en una Botella",
+    "genre": "drama"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "genre": "drama"
+  },
+  {
+    "title": "La Vida es Bella",
+    "genre": "drama"
+  },
+  {
+    "title": "El Niño con el Pijama de Rayas",
+    "genre": "drama"
+  },
+  {
+    "title": "Hotel Rwanda",
+    "genre": "drama"
+  },
+  {
+    "title": "Diamante de Sangre",
+    "genre": "drama"
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "genre": "drama"
+  },
+  {
+    "title": "Into the Wild",
+    "genre": "drama"
+  },
+  {
+    "title": "127 Horas",
+    "genre": "drama"
+  },
+  {
+    "title": "Capitán Phillips",
+    "genre": "drama"
+  },
+  {
+    "title": "Historia de un Matrimonio",
+    "genre": "drama"
+  },
+  {
+    "title": "Anatomía de una Caída",
+    "genre": "drama"
+  },
+  {
+    "title": "El Sustituto",
+    "genre": "drama"
+  },
+  {
+    "title": "La Duda",
+    "genre": "drama"
+  },
+  {
+    "title": "Gente Corriente",
+    "genre": "drama"
+  },
+  {
+    "title": "Kramer contra Kramer",
+    "genre": "drama"
+  },
+  {
+    "title": "La Fuerza del Cariño",
+    "genre": "drama"
+  },
+  {
+    "title": "Rain Man",
+    "genre": "drama"
+  },
+  {
+    "title": "En Busca de la Felicidad",
+    "genre": "drama"
+  },
+  {
+    "title": "Un Sueño Posible",
+    "genre": "drama"
+  },
+  {
+    "title": "Invictus",
+    "genre": "drama"
+  },
+  {
+    "title": "Selma",
+    "genre": "drama"
+  },
+  {
+    "title": "Ali",
+    "genre": "drama"
+  },
+  {
+    "title": "Ford v Ferrari",
+    "genre": "drama"
+  },
+  {
+    "title": "Nebraska",
+    "genre": "drama"
+  },
+  {
+    "title": "Sideways: Entre Copas",
+    "genre": "drama"
+  },
+  {
+    "title": "Lost in Translation",
+    "genre": "drama"
+  },
+  {
+    "title": "Mujercitas",
+    "genre": "drama"
+  },
+  {
+    "title": "Jojo Rabbit",
+    "genre": "drama"
+  },
+  {
+    "title": "El Padre",
+    "genre": "drama"
+  },
+  {
+    "title": "Sound of Metal",
+    "genre": "drama"
+  },
+  {
+    "title": "Judas y el Mesías Negro",
+    "genre": "drama"
+  },
+  {
+    "title": "Minari",
+    "genre": "drama"
+  },
+  {
+    "title": "El Juicio de los 7 de Chicago",
+    "genre": "drama"
+  },
+  {
+    "title": "La Madre del Blues",
+    "genre": "drama"
+  },
+  {
+    "title": "One Night in Miami",
+    "genre": "drama"
+  },
+  {
+    "title": "Bombshell: El Escándalo",
+    "genre": "drama"
+  },
+  {
+    "title": "Pieces of a Woman",
+    "genre": "drama"
+  },
+  {
+    "title": "News of the World",
+    "genre": "drama"
+  },
+  {
+    "title": "El Poder del Perro",
+    "genre": "drama"
+  },
+  {
+    "title": "Licorice Pizza",
+    "genre": "drama"
+  },
+  {
+    "title": "Tár",
+    "genre": "drama"
+  },
+  {
+    "title": "La Ballena",
+    "genre": "drama"
+  },
+  {
+    "title": "Aftersun",
+    "genre": "drama"
+  },
+  {
+    "title": "Living: Vivir",
+    "genre": "drama"
+  },
+  {
+    "title": "She Said: El Escándalo que Cambió las Reglas",
+    "genre": "drama"
+  },
+  {
+    "title": "Ellas Hablan",
+    "genre": "drama"
+  },
+  {
+    "title": "Vidas Pasadas",
+    "genre": "drama"
+  },
+  {
+    "title": "El Exorcista",
+    "genre": "terror"
+  },
+  {
+    "title": "La Noche de Halloween",
+    "genre": "terror"
+  },
+  {
+    "title": "Halloween Kills",
+    "genre": "terror"
+  },
+  {
+    "title": "Viernes 13",
+    "genre": "terror"
+  },
+  {
+    "title": "Pesadilla en Elm Street",
+    "genre": "terror"
+  },
+  {
+    "title": "Scream",
+    "genre": "terror"
+  },
+  {
+    "title": "Scream 2",
+    "genre": "terror"
+  },
+  {
+    "title": "It (Eso)",
+    "genre": "terror"
+  },
+  {
+    "title": "It: Capítulo Dos",
+    "genre": "terror"
+  },
+  {
+    "title": "El Resplandor",
+    "genre": "terror"
+  },
+  {
+    "title": "La Semilla del Diablo",
+    "genre": "terror"
+  },
+  {
+    "title": "Actividad Paranormal",
+    "genre": "terror"
+  },
+  {
+    "title": "Actividad Paranormal 2",
+    "genre": "terror"
+  },
+  {
+    "title": "Insidious",
+    "genre": "terror"
+  },
+  {
+    "title": "Insidious: Capítulo 2",
+    "genre": "terror"
+  },
+  {
+    "title": "El Conjuro",
+    "genre": "terror"
+  },
+  {
+    "title": "El Conjuro 2",
+    "genre": "terror"
+  },
+  {
+    "title": "Annabelle",
+    "genre": "terror"
+  },
+  {
+    "title": "Annabelle Vuelve a Casa",
+    "genre": "terror"
+  },
+  {
+    "title": "La Monja",
+    "genre": "terror"
+  },
+  {
+    "title": "Hereditary",
+    "genre": "terror"
+  },
+  {
+    "title": "Midsommar",
+    "genre": "terror"
+  },
+  {
+    "title": "¡Huye!",
+    "genre": "terror"
+  },
+  {
+    "title": "Nosotros",
+    "genre": "terror"
+  },
+  {
+    "title": "Un Lugar en Silencio",
+    "genre": "terror"
+  },
+  {
+    "title": "Un Lugar en Silencio 2",
+    "genre": "terror"
+  },
+  {
+    "title": "La Bruja",
+    "genre": "terror"
+  },
+  {
+    "title": "It Follows",
+    "genre": "terror"
+  },
+  {
+    "title": "La Cabaña en el Bosque",
+    "genre": "terror"
+  },
+  {
+    "title": "Saw: El Juego del Miedo",
+    "genre": "terror"
+  },
+  {
+    "title": "Saw II",
+    "genre": "terror"
+  },
+  {
+    "title": "Saw III",
+    "genre": "terror"
+  },
+  {
+    "title": "Destino Final",
+    "genre": "terror"
+  },
+  {
+    "title": "Destino Final 2",
+    "genre": "terror"
+  },
+  {
+    "title": "Destino Final 5",
+    "genre": "terror"
+  },
+  {
+    "title": "Hostel",
+    "genre": "terror"
+  },
+  {
+    "title": "La Matanza de Texas",
+    "genre": "terror"
+  },
+  {
+    "title": "La Masacre de Texas: El Origen",
+    "genre": "terror"
+  },
+  {
+    "title": "Chucky: El Muñeco Diabólico",
+    "genre": "terror"
+  },
+  {
+    "title": "La Novia de Chucky",
+    "genre": "terror"
+  },
+  {
+    "title": "Pesadilla Final: La Muerte de Freddy",
+    "genre": "terror"
+  },
+  {
+    "title": "Freddy contra Jason",
+    "genre": "terror"
+  },
+  {
+    "title": "Viernes 13 Parte 2",
+    "genre": "terror"
+  },
+  {
+    "title": "La Profecía",
+    "genre": "terror"
+  },
+  {
+    "title": "Poltergeist",
+    "genre": "terror"
+  },
+  {
+    "title": "La Casa (Evil Dead)",
+    "genre": "terror"
+  },
+  {
+    "title": "Posesión Infernal (2013)",
+    "genre": "terror"
+  },
+  {
+    "title": "Terrorífico",
+    "genre": "terror"
+  },
+  {
+    "title": "Terrorífico 2",
+    "genre": "terror"
+  },
+  {
+    "title": "M3GAN",
+    "genre": "terror"
+  },
+  {
+    "title": "Long Legs",
+    "genre": "terror"
+  },
+  {
+    "title": "Smile",
+    "genre": "terror"
+  },
+  {
+    "title": "Barbarian",
+    "genre": "terror"
+  },
+  {
+    "title": "Speak No Evil",
+    "genre": "terror"
+  },
+  {
+    "title": "Talk to Me",
+    "genre": "terror"
+  },
+  {
+    "title": "X: Una Película de Terror",
+    "genre": "terror"
+  },
+  {
+    "title": "Pearl",
+    "genre": "terror"
+  },
+  {
+    "title": "El Hombre Invisible (2020)",
+    "genre": "terror"
+  },
+  {
+    "title": "La Llorona",
+    "genre": "terror"
+  },
+  {
+    "title": "Mamá",
+    "genre": "terror"
+  },
+  {
+    "title": "The Ring: El Aro",
+    "genre": "terror"
+  },
+  {
+    "title": "La Maldición (The Grudge)",
+    "genre": "terror"
+  },
+  {
+    "title": "Rec",
+    "genre": "terror"
+  },
+  {
+    "title": "Rec 2",
+    "genre": "terror"
+  },
+  {
+    "title": "28 Días Después",
+    "genre": "terror"
+  },
+  {
+    "title": "28 Semanas Después",
+    "genre": "terror"
+  },
+  {
+    "title": "Guerra Mundial Z",
+    "genre": "terror"
+  },
+  {
+    "title": "Soy Leyenda",
+    "genre": "terror"
+  },
+  {
+    "title": "Amanecer de los Muertos",
+    "genre": "terror"
+  },
+  {
+    "title": "La Noche de los Muertos Vivientes",
+    "genre": "terror"
+  },
+  {
+    "title": "Zombieland",
+    "genre": "terror"
+  },
+  {
+    "title": "Silent Hill",
+    "genre": "terror"
+  },
+  {
+    "title": "Silent Hill: Revelación",
+    "genre": "terror"
+  },
+  {
+    "title": "El Aro 2",
+    "genre": "terror"
+  },
+  {
+    "title": "Sinister",
+    "genre": "terror"
+  },
+  {
+    "title": "Sinister 2",
+    "genre": "terror"
+  },
+  {
+    "title": "Oculus: El Espejo del Mal",
+    "genre": "terror"
+  },
+  {
+    "title": "La Casa de Cera",
+    "genre": "terror"
+  },
+  {
+    "title": "Wrong Turn",
+    "genre": "terror"
+  },
+  {
+    "title": "Wolf Creek",
+    "genre": "terror"
+  },
+  {
+    "title": "Krampus",
+    "genre": "terror"
+  },
+  {
+    "title": "La Cosa (The Thing)",
+    "genre": "terror"
+  },
+  {
+    "title": "Alien: El Octavo Pasajero",
+    "genre": "terror"
+  },
+  {
+    "title": "Aliens: El Regreso",
+    "genre": "terror"
+  },
+  {
+    "title": "Depredador",
+    "genre": "terror"
+  },
+  {
+    "title": "El Proyecto de la Bruja de Blair",
+    "genre": "terror"
+  },
+  {
+    "title": "Actividad Paranormal 3",
+    "genre": "terror"
+  },
+  {
+    "title": "Actividad Paranormal 4",
+    "genre": "terror"
+  },
+  {
+    "title": "Verónica",
+    "genre": "terror"
+  },
+  {
+    "title": "La Casa Muda",
+    "genre": "terror"
+  },
+  {
+    "title": "Crawl",
+    "genre": "terror"
+  },
+  {
+    "title": "The Visit",
+    "genre": "terror"
+  },
+  {
+    "title": "Fragmentado",
+    "genre": "terror"
+  },
+  {
+    "title": "Cristal",
+    "genre": "terror"
+  },
+  {
+    "title": "El Sexto Sentido",
+    "genre": "terror"
+  },
+  {
+    "title": "Señales",
+    "genre": "terror"
+  },
+  {
+    "title": "La Aldea",
+    "genre": "terror"
+  },
+  {
+    "title": "Devil (Vivos)",
+    "genre": "terror"
+  },
+  {
+    "title": "Destino Final 3",
+    "genre": "terror"
+  },
+  {
+    "title": "Destino Final: Destino Mortal",
+    "genre": "terror"
+  },
+  {
+    "title": "Blade Runner",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Blade Runner 2049",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Matrix",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Matrix Recargado",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Matrix Revolutions",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Interstellar",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Origen (Inception)",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "2001: Una Odisea del Espacio",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Star Wars: Una Nueva Esperanza",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Star Wars: El Imperio Contraataca",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Star Wars: El Retorno del Jedi",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Regreso al Futuro",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Regreso al Futuro II",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Regreso al Futuro III",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Terminator",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Terminator 2: El Juicio Final",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Alien: El Octavo Pasajero",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Aliens: El Regreso",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Depredador",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Jurassic Park",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Mundo Perdido: Jurassic Park",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Minority Report",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Yo, Robot",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Ex Machina",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Her",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Gravity",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Marte (The Martian)",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Contact (Contacto)",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Llegada (Arrival)",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Dune",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Dune: Parte Dos",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Avatar",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Avatar: El Sentido del Agua",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "E.T. el Extraterrestre",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Encuentros en la Tercera Fase",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Independence Day",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Hombres de Negro",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "District 9",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Elysium",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Chappie",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "RoboCop",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Desafío Total",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Quinto Elemento",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Wall-E",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Ready Player One",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Tron: Legacy",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Guardianes de la Galaxia",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Guardianes de la Galaxia Vol. 2",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Los Vengadores",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Vengadores: Infinity War",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Vengadores: Endgame",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Iron Man",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Capitán América: El Primer Vengador",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Logan",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "X-Men: Días del Futuro Pasado",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Godzilla (2014)",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Godzilla vs. Kong",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Pacific Rim",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Cloverfield",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Guerra de los Mundos",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Señales",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Sunshine",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Moon",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Oblivion",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Tomorrowland: El Mundo del Mañana",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Divergente",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Los Juegos del Hambre",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Los Juegos del Hambre: En Llamas",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Maze Runner: Correr o Morir",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Día que la Tierra se Detuvo",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Soy Leyenda",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Hijos de los Hombres",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Gattaca",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Cube",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Looper",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Al Filo del Mañana",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Starship Troopers",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Watchmen",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "V de Vendetta",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Ghost in the Shell: El Alma de la Máquina",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Akira",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Rompenieves (Snowpiercer)",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Crónica (Chronicle)",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Bumblebee",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Transformers",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Jurassic World",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Jurassic World: El Reino Caído",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Planeta de los Simios (El Origen)",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Amanecer del Planeta de los Simios",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "La Guerra del Planeta de los Simios",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Colossal",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Life (Vida)",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "El Hombre Bicentenario",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "A.I. Inteligencia Artificial",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Los Agentes del Destino",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Predestinación",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Coherence",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Aniquilación",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Nope",
+    "genre": "ciencia-ficcion"
+  },
+  {
+    "title": "Toy Story",
+    "genre": "animacion"
+  },
+  {
+    "title": "Toy Story 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "Toy Story 3",
+    "genre": "animacion"
+  },
+  {
+    "title": "Toy Story 4",
+    "genre": "animacion"
+  },
+  {
+    "title": "Buscando a Nemo",
+    "genre": "animacion"
+  },
+  {
+    "title": "Buscando a Dory",
+    "genre": "animacion"
+  },
+  {
+    "title": "Los Increíbles",
+    "genre": "animacion"
+  },
+  {
+    "title": "Los Increíbles 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "Up",
+    "genre": "animacion"
+  },
+  {
+    "title": "Coco",
+    "genre": "animacion"
+  },
+  {
+    "title": "Del Revés (Inside Out)",
+    "genre": "animacion"
+  },
+  {
+    "title": "Del Revés 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "Ratatouille",
+    "genre": "animacion"
+  },
+  {
+    "title": "WALL-E",
+    "genre": "animacion"
+  },
+  {
+    "title": "Monstruos S.A.",
+    "genre": "animacion"
+  },
+  {
+    "title": "Monstruos University",
+    "genre": "animacion"
+  },
+  {
+    "title": "Cars",
+    "genre": "animacion"
+  },
+  {
+    "title": "Cars 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "Cars 3",
+    "genre": "animacion"
+  },
+  {
+    "title": "Indomable (Brave)",
+    "genre": "animacion"
+  },
+  {
+    "title": "Onward: Hacia Delante",
+    "genre": "animacion"
+  },
+  {
+    "title": "Soul",
+    "genre": "animacion"
+  },
+  {
+    "title": "Luca",
+    "genre": "animacion"
+  },
+  {
+    "title": "Elemental",
+    "genre": "animacion"
+  },
+  {
+    "title": "Shrek",
+    "genre": "animacion"
+  },
+  {
+    "title": "Shrek 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "Shrek Tercero",
+    "genre": "animacion"
+  },
+  {
+    "title": "Shrek para Siempre",
+    "genre": "animacion"
+  },
+  {
+    "title": "El Gato con Botas",
+    "genre": "animacion"
+  },
+  {
+    "title": "Kung Fu Panda",
+    "genre": "animacion"
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "genre": "animacion"
+  },
+  {
+    "title": "Madagascar",
+    "genre": "animacion"
+  },
+  {
+    "title": "Madagascar 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "Madagascar 3",
+    "genre": "animacion"
+  },
+  {
+    "title": "Los Pingüinos de Madagascar",
+    "genre": "animacion"
+  },
+  {
+    "title": "Cómo Entrenar a tu Dragón",
+    "genre": "animacion"
+  },
+  {
+    "title": "Cómo Entrenar a tu Dragón 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "Cómo Entrenar a tu Dragón 3",
+    "genre": "animacion"
+  },
+  {
+    "title": "El Espantatiburones",
+    "genre": "animacion"
+  },
+  {
+    "title": "Trolls",
+    "genre": "animacion"
+  },
+  {
+    "title": "Trolls World Tour",
+    "genre": "animacion"
+  },
+  {
+    "title": "La Era de Hielo",
+    "genre": "animacion"
+  },
+  {
+    "title": "La Era de Hielo 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "La Era de Hielo 3",
+    "genre": "animacion"
+  },
+  {
+    "title": "La Era de Hielo 4",
+    "genre": "animacion"
+  },
+  {
+    "title": "Los Croods",
+    "genre": "animacion"
+  },
+  {
+    "title": "Río",
+    "genre": "animacion"
+  },
+  {
+    "title": "Río 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "Mi Villano Favorito",
+    "genre": "animacion"
+  },
+  {
+    "title": "Mi Villano Favorito 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "Mi Villano Favorito 3",
+    "genre": "animacion"
+  },
+  {
+    "title": "Los Minions",
+    "genre": "animacion"
+  },
+  {
+    "title": "Minions: El Origen de Gru",
+    "genre": "animacion"
+  },
+  {
+    "title": "El Rey León",
+    "genre": "animacion"
+  },
+  {
+    "title": "Frozen",
+    "genre": "animacion"
+  },
+  {
+    "title": "Frozen II",
+    "genre": "animacion"
+  },
+  {
+    "title": "Aladdín",
+    "genre": "animacion"
+  },
+  {
+    "title": "La Sirenita",
+    "genre": "animacion"
+  },
+  {
+    "title": "La Bella y la Bestia",
+    "genre": "animacion"
+  },
+  {
+    "title": "Mulán",
+    "genre": "animacion"
+  },
+  {
+    "title": "Pocahontas",
+    "genre": "animacion"
+  },
+  {
+    "title": "Hércules",
+    "genre": "animacion"
+  },
+  {
+    "title": "Tarzán",
+    "genre": "animacion"
+  },
+  {
+    "title": "101 Dálmatas",
+    "genre": "animacion"
+  },
+  {
+    "title": "Dumbo",
+    "genre": "animacion"
+  },
+  {
+    "title": "Bambi",
+    "genre": "animacion"
+  },
+  {
+    "title": "Pinocho",
+    "genre": "animacion"
+  },
+  {
+    "title": "Peter Pan",
+    "genre": "animacion"
+  },
+  {
+    "title": "Alicia en el País de las Maravillas",
+    "genre": "animacion"
+  },
+  {
+    "title": "La Cenicienta",
+    "genre": "animacion"
+  },
+  {
+    "title": "Blancanieves",
+    "genre": "animacion"
+  },
+  {
+    "title": "Enredados",
+    "genre": "animacion"
+  },
+  {
+    "title": "Big Hero 6",
+    "genre": "animacion"
+  },
+  {
+    "title": "Zootrópolis",
+    "genre": "animacion"
+  },
+  {
+    "title": "Vaiana",
+    "genre": "animacion"
+  },
+  {
+    "title": "Encanto",
+    "genre": "animacion"
+  },
+  {
+    "title": "Wreck-It Ralph: Rompe Ralph",
+    "genre": "animacion"
+  },
+  {
+    "title": "Ralph Rompe Internet",
+    "genre": "animacion"
+  },
+  {
+    "title": "Bichos: Una Aventura en Miniatura",
+    "genre": "animacion"
+  },
+  {
+    "title": "Space Jam",
+    "genre": "animacion"
+  },
+  {
+    "title": "Space Jam: Nuevas Leyendas",
+    "genre": "animacion"
+  },
+  {
+    "title": "Persépolis",
+    "genre": "animacion"
+  },
+  {
+    "title": "El Viaje de Chihiro",
+    "genre": "animacion"
+  },
+  {
+    "title": "La Princesa Mononoke",
+    "genre": "animacion"
+  },
+  {
+    "title": "Mi Vecino Totoro",
+    "genre": "animacion"
+  },
+  {
+    "title": "El Castillo Ambulante",
+    "genre": "animacion"
+  },
+  {
+    "title": "La Tumba de las Luciérnagas",
+    "genre": "animacion"
+  },
+  {
+    "title": "Ponyo en el Acantilado",
+    "genre": "animacion"
+  },
+  {
+    "title": "El Viaje de Arlo",
+    "genre": "animacion"
+  },
+  {
+    "title": "Bob Esponja: La Película",
+    "genre": "animacion"
+  },
+  {
+    "title": "Klaus",
+    "genre": "animacion"
+  },
+  {
+    "title": "La Familia Mitchell contra las Máquinas",
+    "genre": "animacion"
+  },
+  {
+    "title": "Batman: La Máscara del Fantasma",
+    "genre": "animacion"
+  },
+  {
+    "title": "Nausicaä del Valle del Viento",
+    "genre": "animacion"
+  },
+  {
+    "title": "El Servicio de Entrega de Kiki",
+    "genre": "animacion"
+  },
+  {
+    "title": "Sing",
+    "genre": "animacion"
+  },
+  {
+    "title": "Sing 2",
+    "genre": "animacion"
+  },
+  {
+    "title": "Wish: El Poder de los Deseos",
+    "genre": "animacion"
+  },
+  {
+    "title": "Flow",
+    "genre": "animacion"
+  },
+  {
+    "title": "Harry Potter y la Piedra Filosofal",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y la Cámara Secreta",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y el Prisionero de Azkaban",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y el Cáliz de Fuego",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y la Orden del Fénix",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y el Misterio del Príncipe",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y las Reliquias de la Muerte Parte 1",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Harry Potter y las Reliquias de la Muerte Parte 2",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Animales Fantásticos y Dónde Encontrarlos",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Animales Fantásticos: Los Crímenes de Grindelwald",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Animales Fantásticos: Los Secretos de Dumbledore",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Señor de los Anillos: La Comunidad del Anillo",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Señor de los Anillos: Las Dos Torres",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Señor de los Anillos: El Retorno del Rey",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Hobbit: Un Viaje Inesperado",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Hobbit: La Desolación de Smaug",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Hobbit: La Batalla de los Cinco Ejércitos",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Las Crónicas de Narnia: El León, la Bruja y el Armario",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Las Crónicas de Narnia: El Príncipe Caspian",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Las Crónicas de Narnia: La Travesía del Viajero del Alba",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Percy Jackson y el Ladrón del Rayo",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Percy Jackson y el Mar de los Monstruos",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Laberinto del Fauno",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Big Fish",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Stardust",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Princesa Prometida",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Eduardo Manostijeras",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Alicia en el País de las Maravillas (2010)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Maléfica",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Maléfica: Dueña del Mal",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Encantada",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Descendientes",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Descendientes 2",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Jumanji",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Jumanji: Bienvenidos a la Jungla",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Jumanji: El Siguiente Nivel",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Historia Interminable",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Leyenda (Legend)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Willow",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Dragonheart",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Cuervo (The Crow)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Van Helsing",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Drácula de Bram Stoker",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Entrevista con el Vampiro",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Crepúsculo",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Luna Nueva",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Eclipse",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Amanecer Parte 1",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Amanecer Parte 2",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Bella y la Bestia (2017)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Aladdín (2019)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Sirenita (2023)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Mulán (2020)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Cruella",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Peter Pan y Wendy",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Pinocho (2022)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Mago de Oz",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Regreso a Oz",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Oz, un Mundo de Fantasía",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Coraline",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Extraño Mundo de Jack",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Charlie y la Fábrica de Chocolate",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Wonka",
+    "genre": "fantasia"
+  },
+  {
+    "title": "James y el Melocotón Gigante",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Matilda",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Las Brujas",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Un Monstruo Viene a Verme",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Libro de la Selva (2016)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Rey León (2019)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Dumbo (2019)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Un Puente Hacia Terabithia",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Hook, el Regreso del Capitán Garfio",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Hocus Pocus",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Hocus Pocus 2",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Retorno de Mary Poppins",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Mary Poppins",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Un Viaje en el Tiempo (A Wrinkle in Time)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Espejito Espejito",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Blancanieves y el Cazador",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Jack el Caza Gigantes",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Eragon",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Brújula Dorada",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Aprendiz de Brujo",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Constantine",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Mortal Engines: Mundos de Acero",
+    "genre": "fantasia"
+  },
+  {
+    "title": "La Historia sin Fin II: El Próximo Capítulo",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Willy Wonka y la Fábrica de Chocolate (1971)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Ilusionista",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Peter Pan (1953)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Cascanueces y los Cuatro Reinos",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Bright: El Precio del Mañana",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Elemental",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Wish: El Poder de los Deseos",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Onward: Hacia Delante",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Doctor Strange",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Aquaman",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Wonder Woman",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Thor",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Peter Pan (2003)",
+    "genre": "fantasia"
+  },
+  {
+    "title": "Jack y las Habichuelas Mágicas",
+    "genre": "fantasia"
+  },
+  {
+    "title": "El Diario de Noa",
+    "genre": "romance"
+  },
+  {
+    "title": "Titanic",
+    "genre": "romance"
+  },
+  {
+    "title": "Mensaje en una Botella",
+    "genre": "romance"
+  },
+  {
+    "title": "Un Paseo para Recordar",
+    "genre": "romance"
+  },
+  {
+    "title": "Querido John",
+    "genre": "romance"
+  },
+  {
+    "title": "La Última Canción",
+    "genre": "romance"
+  },
+  {
+    "title": "Como Si Fuera la Primera Vez",
+    "genre": "romance"
+  },
+  {
+    "title": "P.S. Te Amo",
+    "genre": "romance"
+  },
+  {
+    "title": "Orgullo y Prejuicio (2005)",
+    "genre": "romance"
+  },
+  {
+    "title": "Sentido y Sensibilidad",
+    "genre": "romance"
+  },
+  {
+    "title": "Emma (2020)",
+    "genre": "romance"
+  },
+  {
+    "title": "Cumbres Borrascosas",
+    "genre": "romance"
+  },
+  {
+    "title": "Jane Eyre (2011)",
+    "genre": "romance"
+  },
+  {
+    "title": "Los Puentes de Madison",
+    "genre": "romance"
+  },
+  {
+    "title": "Ghost: La Sombra del Amor",
+    "genre": "romance"
+  },
+  {
+    "title": "Dirty Dancing",
+    "genre": "romance"
+  },
+  {
+    "title": "La La Land",
+    "genre": "romance"
+  },
+  {
+    "title": "Antes del Amanecer",
+    "genre": "romance"
+  },
+  {
+    "title": "Antes del Atardecer",
+    "genre": "romance"
+  },
+  {
+    "title": "Antes de la Medianoche",
+    "genre": "romance"
+  },
+  {
+    "title": "Cuando Harry Encontró a Sally",
+    "genre": "romance"
+  },
+  {
+    "title": "Tienes un E-Mail",
+    "genre": "romance"
+  },
+  {
+    "title": "Notting Hill",
+    "genre": "romance"
+  },
+  {
+    "title": "Cuatro Bodas y un Funeral",
+    "genre": "romance"
+  },
+  {
+    "title": "Love Actually",
+    "genre": "romance"
+  },
+  {
+    "title": "500 Días con Ella",
+    "genre": "romance"
+  },
+  {
+    "title": "El Lado Bueno de las Cosas",
+    "genre": "romance"
+  },
+  {
+    "title": "El Diario de Bridget Jones",
+    "genre": "romance"
+  },
+  {
+    "title": "Bridget Jones: Sobreviviré",
+    "genre": "romance"
+  },
+  {
+    "title": "Yo Antes de Ti",
+    "genre": "romance"
+  },
+  {
+    "title": "Después de Ti",
+    "genre": "romance"
+  },
+  {
+    "title": "Bajo la Misma Estrella",
+    "genre": "romance"
+  },
+  {
+    "title": "Culpa Mía",
+    "genre": "romance"
+  },
+  {
+    "title": "Culpa Tuya",
+    "genre": "romance"
+  },
+  {
+    "title": "A Través de mi Ventana",
+    "genre": "romance"
+  },
+  {
+    "title": "Cincuenta Sombras de Grey",
+    "genre": "romance"
+  },
+  {
+    "title": "Cincuenta Sombras Más Oscuras",
+    "genre": "romance"
+  },
+  {
+    "title": "Cincuenta Sombras Liberadas",
+    "genre": "romance"
+  },
+  {
+    "title": "After",
+    "genre": "romance"
+  },
+  {
+    "title": "After: En Mil Pedazos",
+    "genre": "romance"
+  },
+  {
+    "title": "La Forma del Agua",
+    "genre": "romance"
+  },
+  {
+    "title": "El Paciente Inglés",
+    "genre": "romance"
+  },
+  {
+    "title": "Memorias de África",
+    "genre": "romance"
+  },
+  {
+    "title": "Orgullo y Prejuicio y Zombis",
+    "genre": "romance"
+  },
+  {
+    "title": "Casablanca",
+    "genre": "romance"
+  },
+  {
+    "title": "Lo Que el Viento se Llevó",
+    "genre": "romance"
+  },
+  {
+    "title": "Desayuno con Diamantes",
+    "genre": "romance"
+  },
+  {
+    "title": "Grease",
+    "genre": "romance"
+  },
+  {
+    "title": "Dirty Dancing 2: Havana Nights",
+    "genre": "romance"
+  },
+  {
+    "title": "La Bella y la Bestia (2017)",
+    "genre": "romance"
+  },
+  {
+    "title": "Amelie",
+    "genre": "romance"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "genre": "romance"
+  },
+  {
+    "title": "La Vida es Bella",
+    "genre": "romance"
+  },
+  {
+    "title": "Como Dios",
+    "genre": "romance"
+  },
+  {
+    "title": "Sintonía de Amor",
+    "genre": "romance"
+  },
+  {
+    "title": "La Boda de mi Mejor Amiga",
+    "genre": "romance"
+  },
+  {
+    "title": "27 Vestidos",
+    "genre": "romance"
+  },
+  {
+    "title": "Cómo Perder a un Chico en 10 Días",
+    "genre": "romance"
+  },
+  {
+    "title": "Alguien Tiene que Ceder",
+    "genre": "romance"
+  },
+  {
+    "title": "Descubriendo Nunca Jamás",
+    "genre": "romance"
+  },
+  {
+    "title": "Annie Hall",
+    "genre": "romance"
+  },
+  {
+    "title": "Manhattan",
+    "genre": "romance"
+  },
+  {
+    "title": "Recuérdame",
+    "genre": "romance"
+  },
+  {
+    "title": "Café Society",
+    "genre": "romance"
+  },
+  {
+    "title": "Vicky Cristina Barcelona",
+    "genre": "romance"
+  },
+  {
+    "title": "Media Noche en París",
+    "genre": "romance"
+  },
+  {
+    "title": "Blue Valentine",
+    "genre": "romance"
+  },
+  {
+    "title": "Her",
+    "genre": "romance"
+  },
+  {
+    "title": "Eterno Resplandor de una Mente sin Recuerdos",
+    "genre": "romance"
+  },
+  {
+    "title": "Nunca es Tarde",
+    "genre": "romance"
+  },
+  {
+    "title": "El Curioso Caso de Benjamin Button",
+    "genre": "romance"
+  },
+  {
+    "title": "Los Miserables (2012)",
+    "genre": "romance"
+  },
+  {
+    "title": "Moulin Rouge",
+    "genre": "romance"
+  },
+  {
+    "title": "Chicago",
+    "genre": "romance"
+  },
+  {
+    "title": "Anna Karenina (2012)",
+    "genre": "romance"
+  },
+  {
+    "title": "Cyrano (2021)",
+    "genre": "romance"
+  },
+  {
+    "title": "Romeo + Julieta (1996)",
+    "genre": "romance"
+  },
+  {
+    "title": "West Side Story",
+    "genre": "romance"
+  },
+  {
+    "title": "Cuento de Invierno",
+    "genre": "romance"
+  },
+  {
+    "title": "Elizabethtown",
+    "genre": "romance"
+  },
+  {
+    "title": "La Esposa del Viajero en el Tiempo",
+    "genre": "romance"
+  },
+  {
+    "title": "Siempre a tu Lado: Hachiko",
+    "genre": "romance"
+  },
+  {
+    "title": "Nunca Me Han Besado",
+    "genre": "romance"
+  },
+  {
+    "title": "13 Deseos",
+    "genre": "romance"
+  },
+  {
+    "title": "A Todos los Chicos de los que me Enamoré",
+    "genre": "romance"
+  },
+  {
+    "title": "A Todos los Chicos: P.D. Te Sigo Amando",
+    "genre": "romance"
+  },
+  {
+    "title": "A Todos los Chicos: Siempre",
+    "genre": "romance"
+  },
+  {
+    "title": "The Kissing Booth",
+    "genre": "romance"
+  },
+  {
+    "title": "The Kissing Booth 2",
+    "genre": "romance"
+  },
+  {
+    "title": "The Kissing Booth 3",
+    "genre": "romance"
+  },
+  {
+    "title": "Corazones en Atlanta",
+    "genre": "romance"
+  },
+  {
+    "title": "El Diario de una Boda",
+    "genre": "romance"
+  },
+  {
+    "title": "Made of Honor: Preboda de un Padrino",
+    "genre": "romance"
+  },
+  {
+    "title": "El Amor y Otras Drogas",
+    "genre": "romance"
+  },
+  {
+    "title": "Alguien Especial",
+    "genre": "romance"
+  },
+  {
+    "title": "Cuestión de Tiempo",
+    "genre": "romance"
+  },
+  {
+    "title": "Yesterday",
+    "genre": "romance"
+  },
+  {
+    "title": "Persuasión (2022)",
+    "genre": "romance"
+  },
+  {
+    "title": "Julieta",
+    "genre": "romance"
+  },
+  {
+    "title": "Simplemente Complicado",
+    "genre": "romance"
+  },
+  {
+    "title": "Serendipity",
+    "genre": "romance"
+  },
+  {
+    "title": "Alguien Como Tú",
+    "genre": "romance"
+  },
+  {
+    "title": "Se7en",
+    "genre": "thriller"
+  },
+  {
+    "title": "Zodiac",
+    "genre": "thriller"
+  },
+  {
+    "title": "Perdida (Gone Girl)",
+    "genre": "thriller"
+  },
+  {
+    "title": "Shutter Island",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Origen (Inception)",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Silencio de los Corderos",
+    "genre": "thriller"
+  },
+  {
+    "title": "Prisioneros",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Sexto Sentido",
+    "genre": "thriller"
+  },
+  {
+    "title": "Fragmentado",
+    "genre": "thriller"
+  },
+  {
+    "title": "Cristal",
+    "genre": "thriller"
+  },
+  {
+    "title": "Búsqueda Implacable",
+    "genre": "thriller"
+  },
+  {
+    "title": "Contratiempo",
+    "genre": "thriller"
+  },
+  {
+    "title": "Los Ojos de Julia",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Ventana Indiscreta",
+    "genre": "thriller"
+  },
+  {
+    "title": "Vértigo",
+    "genre": "thriller"
+  },
+  {
+    "title": "Psicosis",
+    "genre": "thriller"
+  },
+  {
+    "title": "Extraños en un Tren",
+    "genre": "thriller"
+  },
+  {
+    "title": "Testigo de Cargo",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Sombra de una Duda",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Talento de Mr. Ripley",
+    "genre": "thriller"
+  },
+  {
+    "title": "Match Point",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Chacal",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Firma",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Informe Pelícano",
+    "genre": "thriller"
+  },
+  {
+    "title": "Pactar con el Diablo",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Fugitivo",
+    "genre": "thriller"
+  },
+  {
+    "title": "Enemigo Público",
+    "genre": "thriller"
+  },
+  {
+    "title": "Salt",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Caso Bourne",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Mito de Bourne",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Ultimátum de Bourne",
+    "genre": "thriller"
+  },
+  {
+    "title": "Misión Imposible",
+    "genre": "thriller"
+  },
+  {
+    "title": "Argo",
+    "genre": "thriller"
+  },
+  {
+    "title": "Zero Dark Thirty",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Vida de los Otros",
+    "genre": "thriller"
+  },
+  {
+    "title": "Munich",
+    "genre": "thriller"
+  },
+  {
+    "title": "Syriana",
+    "genre": "thriller"
+  },
+  {
+    "title": "Michael Clayton",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Informante",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Duda",
+    "genre": "thriller"
+  },
+  {
+    "title": "Sospechosos Habituales",
+    "genre": "thriller"
+  },
+  {
+    "title": "Memento",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Club de la Lucha",
+    "genre": "thriller"
+  },
+  {
+    "title": "Old Boy",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Naranja Mecánica",
+    "genre": "thriller"
+  },
+  {
+    "title": "Perros de Reserva",
+    "genre": "thriller"
+  },
+  {
+    "title": "Traffic",
+    "genre": "thriller"
+  },
+  {
+    "title": "Sicario",
+    "genre": "thriller"
+  },
+  {
+    "title": "Sicario: El Día del Soldado",
+    "genre": "thriller"
+  },
+  {
+    "title": "No es País para Viejos",
+    "genre": "thriller"
+  },
+  {
+    "title": "Fargo",
+    "genre": "thriller"
+  },
+  {
+    "title": "Diamante de Sangre",
+    "genre": "thriller"
+  },
+  {
+    "title": "Cisne Negro",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Piel que Habito",
+    "genre": "thriller"
+  },
+  {
+    "title": "Los Otros",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Orfanato",
+    "genre": "thriller"
+  },
+  {
+    "title": "Verónica",
+    "genre": "thriller"
+  },
+  {
+    "title": "Bajos Instintos",
+    "genre": "thriller"
+  },
+  {
+    "title": "Atracción Fatal",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Mano que Mece la Cuna",
+    "genre": "thriller"
+  },
+  {
+    "title": "Enemigo a las Puertas",
+    "genre": "thriller"
+  },
+  {
+    "title": "¡Huye!",
+    "genre": "thriller"
+  },
+  {
+    "title": "Nosotros (Us)",
+    "genre": "thriller"
+  },
+  {
+    "title": "No Respires",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Purga",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Purga: Anarquía",
+    "genre": "thriller"
+  },
+  {
+    "title": "Búsqueda (Searching)",
+    "genre": "thriller"
+  },
+  {
+    "title": "Escondida (Hush)",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Habitación del Pánico",
+    "genre": "thriller"
+  },
+  {
+    "title": "Phone Booth",
+    "genre": "thriller"
+  },
+  {
+    "title": "Doce Monos",
+    "genre": "thriller"
+  },
+  {
+    "title": "Trance",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Chica del Tren",
+    "genre": "thriller"
+  },
+  {
+    "title": "Cortina de Humo",
+    "genre": "thriller"
+  },
+  {
+    "title": "Nightcrawler: El Buitre",
+    "genre": "thriller"
+  },
+  {
+    "title": "Uncut Gems: Piedras Preciosas",
+    "genre": "thriller"
+  },
+  {
+    "title": "Buenos Muchachos",
+    "genre": "thriller"
+  },
+  {
+    "title": "Casino",
+    "genre": "thriller"
+  },
+  {
+    "title": "Heat",
+    "genre": "thriller"
+  },
+  {
+    "title": "Collateral",
+    "genre": "thriller"
+  },
+  {
+    "title": "Drive",
+    "genre": "thriller"
+  },
+  {
+    "title": "Nocturnal Animals",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Guardián Invisible",
+    "genre": "thriller"
+  },
+  {
+    "title": "Legado en los Huesos",
+    "genre": "thriller"
+  },
+  {
+    "title": "Ofrenda a la Tormenta",
+    "genre": "thriller"
+  },
+  {
+    "title": "La Sombra del Viento",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Escritor Fantasma",
+    "genre": "thriller"
+  },
+  {
+    "title": "Copycat",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Coleccionista de Huesos",
+    "genre": "thriller"
+  },
+  {
+    "title": "Anatomía de un Asesinato",
+    "genre": "thriller"
+  },
+  {
+    "title": "El Tercer Hombre",
+    "genre": "thriller"
+  },
+  {
+    "title": "Chinatown",
+    "genre": "thriller"
+  },
+  {
+    "title": "L.A. Confidential",
+    "genre": "thriller"
+  },
+  {
+    "title": "Dead Calm",
+    "genre": "thriller"
+  },
+  {
+    "title": "Crimen Perfecto",
+    "genre": "thriller"
+  },
+  {
+    "title": "Marathon Man",
+    "genre": "thriller"
+  },
+  {
+    "title": "Sola en la Oscuridad",
+    "genre": "thriller"
+  },
+  {
+    "title": "Bird Box",
+    "genre": "thriller"
+  },
+  {
+    "title": "Wind River",
+    "genre": "thriller"
+  },
+  {
+    "title": "Frenético",
+    "genre": "thriller"
+  },
+  {
+    "title": "Salvar al Soldado Ryan",
+    "genre": "belica"
+  },
+  {
+    "title": "1917",
+    "genre": "belica"
+  },
+  {
+    "title": "Dunkerque",
+    "genre": "belica"
+  },
+  {
+    "title": "La Delgada Línea Roja",
+    "genre": "belica"
+  },
+  {
+    "title": "Apocalypse Now",
+    "genre": "belica"
+  },
+  {
+    "title": "La Chaqueta Metálica",
+    "genre": "belica"
+  },
+  {
+    "title": "Platoon",
+    "genre": "belica"
+  },
+  {
+    "title": "El Francotirador",
+    "genre": "belica"
+  },
+  {
+    "title": "Corazones de Acero",
+    "genre": "belica"
+  },
+  {
+    "title": "La Lista de Schindler",
+    "genre": "belica"
+  },
+  {
+    "title": "El Pianista",
+    "genre": "belica"
+  },
+  {
+    "title": "La Vida es Bella",
+    "genre": "belica"
+  },
+  {
+    "title": "Enemigo a las Puertas",
+    "genre": "belica"
+  },
+  {
+    "title": "El Puente sobre el Río Kwai",
+    "genre": "belica"
+  },
+  {
+    "title": "Cartas desde Iwo Jima",
+    "genre": "belica"
+  },
+  {
+    "title": "Banderas de Nuestros Padres",
+    "genre": "belica"
+  },
+  {
+    "title": "Sin Novedad en el Frente (1930)",
+    "genre": "belica"
+  },
+  {
+    "title": "Sin Novedad en el Frente (2022)",
+    "genre": "belica"
+  },
+  {
+    "title": "Caballo de Batalla",
+    "genre": "belica"
+  },
+  {
+    "title": "El Gran Escape",
+    "genre": "belica"
+  },
+  {
+    "title": "Trece Días",
+    "genre": "belica"
+  },
+  {
+    "title": "Pearl Harbor",
+    "genre": "belica"
+  },
+  {
+    "title": "La Batalla de Midway",
+    "genre": "belica"
+  },
+  {
+    "title": "Braveheart",
+    "genre": "belica"
+  },
+  {
+    "title": "Gladiator",
+    "genre": "belica"
+  },
+  {
+    "title": "Troya",
+    "genre": "belica"
+  },
+  {
+    "title": "300",
+    "genre": "belica"
+  },
+  {
+    "title": "300: El Origen de un Imperio",
+    "genre": "belica"
+  },
+  {
+    "title": "Master and Commander",
+    "genre": "belica"
+  },
+  {
+    "title": "Black Hawk Derribado",
+    "genre": "belica"
+  },
+  {
+    "title": "El Puente de los Espías",
+    "genre": "belica"
+  },
+  {
+    "title": "El Niño con el Pijama de Rayas",
+    "genre": "belica"
+  },
+  {
+    "title": "La Zona de Interés",
+    "genre": "belica"
+  },
+  {
+    "title": "Apocalypto",
+    "genre": "belica"
+  },
+  {
+    "title": "Windtalkers",
+    "genre": "belica"
+  },
+  {
+    "title": "Hasta el Último Hombre",
+    "genre": "belica"
+  },
+  {
+    "title": "El Diario de Ana Frank",
+    "genre": "belica"
+  },
+  {
+    "title": "Objetivo: Entebbe",
+    "genre": "belica"
+  },
+  {
+    "title": "Malditos Bastardos",
+    "genre": "belica"
+  },
+  {
+    "title": "U-571",
+    "genre": "belica"
+  },
+  {
+    "title": "Das Boot: El Submarino",
+    "genre": "belica"
+  },
+  {
+    "title": "La Cruz de Hierro",
+    "genre": "belica"
+  },
+  {
+    "title": "Stalingrado",
+    "genre": "belica"
+  },
+  {
+    "title": "La Caída",
+    "genre": "belica"
+  },
+  {
+    "title": "Katyn",
+    "genre": "belica"
+  },
+  {
+    "title": "Nacido el Cuatro de Julio",
+    "genre": "belica"
+  },
+  {
+    "title": "Forrest Gump",
+    "genre": "belica"
+  },
+  {
+    "title": "Buenos Días, Vietnam",
+    "genre": "belica"
+  },
+  {
+    "title": "El Cazador",
+    "genre": "belica"
+  },
+  {
+    "title": "Bajas de Guerra",
+    "genre": "belica"
+  },
+  {
+    "title": "Jarhead",
+    "genre": "belica"
+  },
+  {
+    "title": "La Zona Verde",
+    "genre": "belica"
+  },
+  {
+    "title": "El Reino de los Cielos",
+    "genre": "belica"
+  },
+  {
+    "title": "Alejandro Magno",
+    "genre": "belica"
+  },
+  {
+    "title": "El Último Samurái",
+    "genre": "belica"
+  },
+  {
+    "title": "Waterloo",
+    "genre": "belica"
+  },
+  {
+    "title": "Napoleón (2023)",
+    "genre": "belica"
+  },
+  {
+    "title": "Guerra y Paz (1956)",
+    "genre": "belica"
+  },
+  {
+    "title": "Lawrence de Arabia",
+    "genre": "belica"
+  },
+  {
+    "title": "La Batalla de Argel",
+    "genre": "belica"
+  },
+  {
+    "title": "Tora! Tora! Tora!",
+    "genre": "belica"
+  },
+  {
+    "title": "Midway (2019)",
+    "genre": "belica"
+  },
+  {
+    "title": "El Día Más Largo",
+    "genre": "belica"
+  },
+  {
+    "title": "Patton",
+    "genre": "belica"
+  },
+  {
+    "title": "Doce del Patíbulo",
+    "genre": "belica"
+  },
+  {
+    "title": "Merry Christmas, Mr. Lawrence",
+    "genre": "belica"
+  },
+  {
+    "title": "Uno Rojo: División de Choque",
+    "genre": "belica"
+  },
+  {
+    "title": "Hombres de Honor",
+    "genre": "belica"
+  },
+  {
+    "title": "Cuando Éramos Soldados",
+    "genre": "belica"
+  },
+  {
+    "title": "El Regreso (Coming Home)",
+    "genre": "belica"
+  },
+  {
+    "title": "Restrepo",
+    "genre": "belica"
+  },
+  {
+    "title": "Único Superviviente",
+    "genre": "belica"
+  },
+  {
+    "title": "13 Horas: Los Soldados Secretos de Bengasi",
+    "genre": "belica"
+  },
+  {
+    "title": "En Tierra Hostil",
+    "genre": "belica"
+  },
+  {
+    "title": "Zero Dark Thirty",
+    "genre": "belica"
+  },
+  {
+    "title": "Hotel Rwanda",
+    "genre": "belica"
+  },
+  {
+    "title": "Diamante de Sangre",
+    "genre": "belica"
+  },
+  {
+    "title": "Beasts of No Nation",
+    "genre": "belica"
+  },
+  {
+    "title": "La Tumba de las Luciérnagas",
+    "genre": "belica"
+  },
+  {
+    "title": "Ven y Mira",
+    "genre": "belica"
+  },
+  {
+    "title": "El Acorazado Potemkin",
+    "genre": "belica"
+  },
+  {
+    "title": "Monuments Men",
+    "genre": "belica"
+  },
+  {
+    "title": "Operación Valquiria",
+    "genre": "belica"
+  },
+  {
+    "title": "Un Puente Lejano",
+    "genre": "belica"
+  },
+  {
+    "title": "Von Ryan's Express: El Tren de la Muerte",
+    "genre": "belica"
+  },
+  {
+    "title": "El Desafío de las Águilas",
+    "genre": "belica"
+  },
+  {
+    "title": "Los Cañones de Navarone",
+    "genre": "belica"
+  },
+  {
+    "title": "Force 10 desde Navarone",
+    "genre": "belica"
+  },
+  {
+    "title": "Objetivo: Birmania",
+    "genre": "belica"
+  },
+  {
+    "title": "Almas en la Hoguera",
+    "genre": "belica"
+  },
+  {
+    "title": "La Señora Miniver",
+    "genre": "belica"
+  },
+  {
+    "title": "Los Mejores Años de Nuestra Vida",
+    "genre": "belica"
+  },
+  {
+    "title": "Senderos de Gloria",
+    "genre": "belica"
+  },
+  {
+    "title": "Doctor Zhivago",
+    "genre": "belica"
+  },
+  {
+    "title": "Casablanca",
+    "genre": "belica"
+  },
+  {
+    "title": "Vals con Bashir",
+    "genre": "belica"
+  },
+  {
+    "title": "Hotel Mumbai",
+    "genre": "belica"
+  },
+  {
+    "title": "Da 5 Bloods",
+    "genre": "belica"
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "genre": "belica"
+  },
+  {
+    "title": "Overlord (2018)",
+    "genre": "belica"
+  },
+  {
+    "title": "La La Land",
+    "genre": "musical"
+  },
+  {
+    "title": "Mamma Mia!",
+    "genre": "musical"
+  },
+  {
+    "title": "Mamma Mia! Una y Otra Vez",
+    "genre": "musical"
+  },
+  {
+    "title": "Grease",
+    "genre": "musical"
+  },
+  {
+    "title": "Chicago",
+    "genre": "musical"
+  },
+  {
+    "title": "Moulin Rouge",
+    "genre": "musical"
+  },
+  {
+    "title": "West Side Story",
+    "genre": "musical"
+  },
+  {
+    "title": "West Side Story (2021)",
+    "genre": "musical"
+  },
+  {
+    "title": "El Rey León (Musical)",
+    "genre": "musical"
+  },
+  {
+    "title": "La Bella y la Bestia (Musical)",
+    "genre": "musical"
+  },
+  {
+    "title": "Sonrisas y Lágrimas",
+    "genre": "musical"
+  },
+  {
+    "title": "Cantando Bajo la Lluvia",
+    "genre": "musical"
+  },
+  {
+    "title": "Un Americano en París",
+    "genre": "musical"
+  },
+  {
+    "title": "Funny Girl",
+    "genre": "musical"
+  },
+  {
+    "title": "My Fair Lady",
+    "genre": "musical"
+  },
+  {
+    "title": "Mary Poppins",
+    "genre": "musical"
+  },
+  {
+    "title": "El Retorno de Mary Poppins",
+    "genre": "musical"
+  },
+  {
+    "title": "Hairspray",
+    "genre": "musical"
+  },
+  {
+    "title": "Dreamgirls",
+    "genre": "musical"
+  },
+  {
+    "title": "Los Miserables (2012)",
+    "genre": "musical"
+  },
+  {
+    "title": "El Fantasma de la Ópera",
+    "genre": "musical"
+  },
+  {
+    "title": "Cats",
+    "genre": "musical"
+  },
+  {
+    "title": "Annie",
+    "genre": "musical"
+  },
+  {
+    "title": "Oliver!",
+    "genre": "musical"
+  },
+  {
+    "title": "Rocky Horror Picture Show",
+    "genre": "musical"
+  },
+  {
+    "title": "Grease 2",
+    "genre": "musical"
+  },
+  {
+    "title": "Footloose",
+    "genre": "musical"
+  },
+  {
+    "title": "Dirty Dancing",
+    "genre": "musical"
+  },
+  {
+    "title": "Flashdance",
+    "genre": "musical"
+  },
+  {
+    "title": "Fama (Fame)",
+    "genre": "musical"
+  },
+  {
+    "title": "Saturday Night Fever",
+    "genre": "musical"
+  },
+  {
+    "title": "Purple Rain",
+    "genre": "musical"
+  },
+  {
+    "title": "8 Mile",
+    "genre": "musical"
+  },
+  {
+    "title": "Straight Outta Compton",
+    "genre": "musical"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "genre": "musical"
+  },
+  {
+    "title": "Rocketman",
+    "genre": "musical"
+  },
+  {
+    "title": "Ray",
+    "genre": "musical"
+  },
+  {
+    "title": "Walk the Line",
+    "genre": "musical"
+  },
+  {
+    "title": "Yesterday",
+    "genre": "musical"
+  },
+  {
+    "title": "Sing Street",
+    "genre": "musical"
+  },
+  {
+    "title": "Once",
+    "genre": "musical"
+  },
+  {
+    "title": "Begin Again",
+    "genre": "musical"
+  },
+  {
+    "title": "Whiplash",
+    "genre": "musical"
+  },
+  {
+    "title": "El Gran Showman",
+    "genre": "musical"
+  },
+  {
+    "title": "Encanto",
+    "genre": "musical"
+  },
+  {
+    "title": "Frozen",
+    "genre": "musical"
+  },
+  {
+    "title": "Frozen II",
+    "genre": "musical"
+  },
+  {
+    "title": "Vaiana",
+    "genre": "musical"
+  },
+  {
+    "title": "Enredados",
+    "genre": "musical"
+  },
+  {
+    "title": "La Sirenita",
+    "genre": "musical"
+  },
+  {
+    "title": "Aladdín",
+    "genre": "musical"
+  },
+  {
+    "title": "Coco",
+    "genre": "musical"
+  },
+  {
+    "title": "A Star Is Born",
+    "genre": "musical"
+  },
+  {
+    "title": "A Star Is Born (1976)",
+    "genre": "musical"
+  },
+  {
+    "title": "Sister Act",
+    "genre": "musical"
+  },
+  {
+    "title": "Sister Act 2",
+    "genre": "musical"
+  },
+  {
+    "title": "School of Rock",
+    "genre": "musical"
+  },
+  {
+    "title": "Camp Rock",
+    "genre": "musical"
+  },
+  {
+    "title": "High School Musical",
+    "genre": "musical"
+  },
+  {
+    "title": "High School Musical 2",
+    "genre": "musical"
+  },
+  {
+    "title": "High School Musical 3",
+    "genre": "musical"
+  },
+  {
+    "title": "Pitch Perfect",
+    "genre": "musical"
+  },
+  {
+    "title": "Pitch Perfect 2",
+    "genre": "musical"
+  },
+  {
+    "title": "Pitch Perfect 3",
+    "genre": "musical"
+  },
+  {
+    "title": "Tick, Tick... Boom!",
+    "genre": "musical"
+  },
+  {
+    "title": "In the Heights",
+    "genre": "musical"
+  },
+  {
+    "title": "Wicked",
+    "genre": "musical"
+  },
+  {
+    "title": "Wicked: Parte Dos",
+    "genre": "musical"
+  },
+  {
+    "title": "Cabaret",
+    "genre": "musical"
+  },
+  {
+    "title": "Evita",
+    "genre": "musical"
+  },
+  {
+    "title": "Jesucristo Superstar",
+    "genre": "musical"
+  },
+  {
+    "title": "Across the Universe",
+    "genre": "musical"
+  },
+  {
+    "title": "Encantada",
+    "genre": "musical"
+  },
+  {
+    "title": "Descendientes",
+    "genre": "musical"
+  },
+  {
+    "title": "Descendientes 2",
+    "genre": "musical"
+  },
+  {
+    "title": "Camp Rock 2",
+    "genre": "musical"
+  },
+  {
+    "title": "Newsies",
+    "genre": "musical"
+  },
+  {
+    "title": "Chitty Chitty Bang Bang",
+    "genre": "musical"
+  },
+  {
+    "title": "El Mago de Oz",
+    "genre": "musical"
+  },
+  {
+    "title": "Tim Burton's The Nightmare Before Christmas",
+    "genre": "musical"
+  },
+  {
+    "title": "Zombies",
+    "genre": "musical"
+  },
+  {
+    "title": "Zombies 2",
+    "genre": "musical"
+  },
+  {
+    "title": "Teen Beach Movie",
+    "genre": "musical"
+  },
+  {
+    "title": "Descendants 3",
+    "genre": "musical"
+  },
+  {
+    "title": "Rent",
+    "genre": "musical"
+  },
+  {
+    "title": "Hamilton",
+    "genre": "musical"
+  },
+  {
+    "title": "Dear Evan Hansen",
+    "genre": "musical"
+  },
+  {
+    "title": "Joker: Folie à Deux",
+    "genre": "musical"
+  },
+  {
+    "title": "Emilia Pérez",
+    "genre": "musical"
+  },
+  {
+    "title": "Barbie",
+    "genre": "musical"
+  },
+  {
+    "title": "Wonka",
+    "genre": "musical"
+  },
+  {
+    "title": "Trolls",
+    "genre": "musical"
+  },
+  {
+    "title": "Trolls World Tour",
+    "genre": "musical"
+  },
+  {
+    "title": "Sing",
+    "genre": "musical"
+  },
+  {
+    "title": "Sing 2",
+    "genre": "musical"
+  },
+  {
+    "title": "Los Productores",
+    "genre": "musical"
+  },
+  {
+    "title": "Nine",
+    "genre": "musical"
+  },
+  {
+    "title": "Grease Live!",
+    "genre": "musical"
+  },
+  {
+    "title": "Annette",
+    "genre": "musical"
+  },
+  {
+    "title": "Los Paraguas de Cherburgo",
+    "genre": "musical"
+  },
+  {
+    "title": "El Bueno, el Feo y el Malo",
+    "genre": "western"
+  },
+  {
+    "title": "Sin Perdón",
+    "genre": "western"
+  },
+  {
+    "title": "Django Desencadenado",
+    "genre": "western"
+  },
+  {
+    "title": "Los Odiosos Ocho",
+    "genre": "western"
+  },
+  {
+    "title": "Hasta que Llegó su Hora",
+    "genre": "western"
+  },
+  {
+    "title": "Por un Puñado de Dólares",
+    "genre": "western"
+  },
+  {
+    "title": "La Muerte Tenía un Precio",
+    "genre": "western"
+  },
+  {
+    "title": "True Grit (2010)",
+    "genre": "western"
+  },
+  {
+    "title": "Valor de Ley (1969)",
+    "genre": "western"
+  },
+  {
+    "title": "El Renacido",
+    "genre": "western"
+  },
+  {
+    "title": "Grupo Salvaje",
+    "genre": "western"
+  },
+  {
+    "title": "Río Bravo",
+    "genre": "western"
+  },
+  {
+    "title": "El Hombre que Mató a Liberty Valance",
+    "genre": "western"
+  },
+  {
+    "title": "Centauros del Desierto",
+    "genre": "western"
+  },
+  {
+    "title": "La Diligencia",
+    "genre": "western"
+  },
+  {
+    "title": "Winchester 73",
+    "genre": "western"
+  },
+  {
+    "title": "Silverado",
+    "genre": "western"
+  },
+  {
+    "title": "Bailando con Lobos",
+    "genre": "western"
+  },
+  {
+    "title": "El Llanero Solitario",
+    "genre": "western"
+  },
+  {
+    "title": "Regreso al Futuro Parte III",
+    "genre": "western"
+  },
+  {
+    "title": "3:10 to Yuma",
+    "genre": "western"
+  },
+  {
+    "title": "Appaloosa",
+    "genre": "western"
+  },
+  {
+    "title": "El Jinete Pálido",
+    "genre": "western"
+  },
+  {
+    "title": "Tombstone",
+    "genre": "western"
+  },
+  {
+    "title": "Wyatt Earp",
+    "genre": "western"
+  },
+  {
+    "title": "Young Guns",
+    "genre": "western"
+  },
+  {
+    "title": "Young Guns II",
+    "genre": "western"
+  },
+  {
+    "title": "Los Siete Magníficos",
+    "genre": "western"
+  },
+  {
+    "title": "Los Siete Magníficos (2016)",
+    "genre": "western"
+  },
+  {
+    "title": "Pat Garrett y Billy the Kid",
+    "genre": "western"
+  },
+  {
+    "title": "La Balada de Buster Scruggs",
+    "genre": "western"
+  },
+  {
+    "title": "Comanchería",
+    "genre": "western"
+  },
+  {
+    "title": "El Poder del Perro",
+    "genre": "western"
+  },
+  {
+    "title": "Noticias del Gran Mundo",
+    "genre": "western"
+  },
+  {
+    "title": "Django",
+    "genre": "western"
+  },
+  {
+    "title": "La Puerta del Cielo",
+    "genre": "western"
+  },
+  {
+    "title": "Rango",
+    "genre": "western"
+  },
+  {
+    "title": "Wind River",
+    "genre": "western"
+  },
+  {
+    "title": "Bone Tomahawk",
+    "genre": "western"
+  },
+  {
+    "title": "El Forastero sin Nombre",
+    "genre": "western"
+  },
+  {
+    "title": "Infierno de Cobardes",
+    "genre": "western"
+  },
+  {
+    "title": "Duelo al Sol",
+    "genre": "western"
+  },
+  {
+    "title": "Río Rojo",
+    "genre": "western"
+  },
+  {
+    "title": "Cimarrón",
+    "genre": "western"
+  },
+  {
+    "title": "Raíces Profundas",
+    "genre": "western"
+  },
+  {
+    "title": "El Fuera de la Ley",
+    "genre": "western"
+  },
+  {
+    "title": "Jeremiah Johnson",
+    "genre": "western"
+  },
+  {
+    "title": "Pequeño Gran Hombre",
+    "genre": "western"
+  },
+  {
+    "title": "Maverick",
+    "genre": "western"
+  },
+  {
+    "title": "Cowboys & Aliens",
+    "genre": "western"
+  },
+  {
+    "title": "Jonah Hex",
+    "genre": "western"
+  },
+  {
+    "title": "Meek's Cutoff",
+    "genre": "western"
+  },
+  {
+    "title": "Slow West",
+    "genre": "western"
+  },
+  {
+    "title": "The Homesman",
+    "genre": "western"
+  },
+  {
+    "title": "Diablo",
+    "genre": "western"
+  },
+  {
+    "title": "In a Valley of Violence",
+    "genre": "western"
+  },
+  {
+    "title": "Hostiles",
+    "genre": "western"
+  },
+  {
+    "title": "The Sisters Brothers",
+    "genre": "western"
+  },
+  {
+    "title": "Los Comancheros",
+    "genre": "western"
+  },
+  {
+    "title": "El Dorado",
+    "genre": "western"
+  },
+  {
+    "title": "Río Lobo",
+    "genre": "western"
+  },
+  {
+    "title": "Open Range",
+    "genre": "western"
+  },
+  {
+    "title": "El Asesinato de Jesse James por el Cobarde Robert Ford",
+    "genre": "western"
+  },
+  {
+    "title": "Tres Padrinos",
+    "genre": "western"
+  },
+  {
+    "title": "A la Hora Señalada",
+    "genre": "western"
+  },
+  {
+    "title": "Sillas de Montar Calientes",
+    "genre": "western"
+  },
+  {
+    "title": "Butch Cassidy y Sundance Kid",
+    "genre": "western"
+  },
+  {
+    "title": "The Long Riders",
+    "genre": "western"
+  },
+  {
+    "title": "Chicas Malas del Oeste",
+    "genre": "western"
+  },
+  {
+    "title": "The Ballad of Little Jo",
+    "genre": "western"
+  },
+  {
+    "title": "Posse",
+    "genre": "western"
+  },
+  {
+    "title": "Dead Man",
+    "genre": "western"
+  },
+  {
+    "title": "The Proposition",
+    "genre": "western"
+  },
+  {
+    "title": "Old Henry",
+    "genre": "western"
+  },
+  {
+    "title": "First Cow",
+    "genre": "western"
+  },
+  {
+    "title": "The Harder They Fall",
+    "genre": "western"
+  },
+  {
+    "title": "The Naked Spur",
+    "genre": "western"
+  },
+  {
+    "title": "Ride the High Country",
+    "genre": "western"
+  },
+  {
+    "title": "The Man from Laramie",
+    "genre": "western"
+  },
+  {
+    "title": "Hondo",
+    "genre": "western"
+  },
+  {
+    "title": "Lonely Are the Brave",
+    "genre": "western"
+  },
+  {
+    "title": "Will Penny",
+    "genre": "western"
+  },
+  {
+    "title": "The Cowboys",
+    "genre": "western"
+  },
+  {
+    "title": "Rooster Cogburn",
+    "genre": "western"
+  },
+  {
+    "title": "Support Your Local Sheriff!",
+    "genre": "western"
+  },
+  {
+    "title": "Cat Ballou",
+    "genre": "western"
+  },
+  {
+    "title": "The Sons of Katie Elder",
+    "genre": "western"
+  },
+  {
+    "title": "Chisum",
+    "genre": "western"
+  },
+  {
+    "title": "La Diligencia del Miedo",
+    "genre": "western"
+  },
+  {
+    "title": "El Cazador de Recompensas",
+    "genre": "western"
+  },
+  {
+    "title": "Colorado Territory",
+    "genre": "western"
+  },
+  {
+    "title": "Winchester'73",
+    "genre": "western"
+  },
+  {
+    "title": "Duelo de Titanes en el Oeste",
+    "genre": "western"
+  },
+  {
+    "title": "El Valle de la Venganza",
+    "genre": "western"
+  },
+  {
+    "title": "Río Grande",
+    "genre": "western"
+  },
+  {
+    "title": "El Fuerte Apache",
+    "genre": "western"
+  },
+  {
+    "title": "La Legión Invencible",
+    "genre": "western"
+  },
+  {
+    "title": "El Hombre Tranquilo",
+    "genre": "western"
+  },
+  {
+    "title": "La Diligencia Fantasma",
+    "genre": "western"
+  },
+  {
+    "title": "El Pistolero",
+    "genre": "western"
+  },
+  {
+    "title": "Cielo Rojo",
+    "genre": "western"
+  },
+  {
+    "title": "Solo Ante el Peligro",
+    "genre": "western"
+  }
+]

@@ -1,0 +1,22 @@
+services:
+  mk96-bot-whatsapp-bee:
+    build: .
+    container_name: mk96-bot-whatsapp-bee
+    restart: unless-stopped
+    tty: true
+    stdin_open: true
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+    ports:
+      - "3000:3000"
+    volumes:
+      - wwebjs_auth:/app/.wwebjs_auth
+      - whats_data:/app/data
+
+# Nombre fijo para que no dependa de la carpeta donde se clone el repo y los comandos
+# de migración del README valgan siempre.
+volumes:
+  wwebjs_auth:
+    name: mk96-bot-whatsapp-bee_wwebjs_auth
+  whats_data:
+    name: mk96-bot-whatsapp-bee_whats_data

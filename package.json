@@ -1,0 +1,14 @@
+{
+  "name": "mk96-bot-whatsapp-bee",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp gratuito basado en whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.26.0",
+    "qrcode": "^1.5.4"
+  }
+}

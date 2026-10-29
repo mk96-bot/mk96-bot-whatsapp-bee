@@ -1,0 +1,11 @@
+FROM node:20-slim
+WORKDIR /app
+COPY package.json ./
+RUN npm install --omit=dev
+COPY patch-wwebjs.js ./
+RUN node patch-wwebjs.js && rm patch-wwebjs.js
+COPY index.js state.js commands.js config.js ratelimit.js stats.js trivia.js games.js recommendations.js resumen.js ./
+COPY content ./content
+COPY test ./test
+RUN node -c index.js
+RUN node --test

@@ -1,0 +1,16 @@
+node_modules
+.wwebjs_auth
+.wwebjs_cache
+npm-debug.log
+.claude/
+
+# Claves: solo .env.example se versiona
+.env
+.env.*
+!.env.example
+
+# Estado de los chats (vive en un volumen de Docker, nunca en el repo)
+data/
+
+# Exportaciones de los volúmenes (contienen la sesión de WhatsApp)
+*.tgz

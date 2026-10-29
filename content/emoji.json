@@ -1,0 +1,1002 @@
+[
+  {
+    "clue": "🦁👑🌍",
+    "options": [
+      "Mulán",
+      "El Libro de la Selva",
+      "El Rey León",
+      "Peter Pan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🕷️🧑🏙️",
+    "options": [
+      "Aquaman",
+      "El Increíble Hulk",
+      "Spider-Man",
+      "Batman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🐠🔍👨‍👦",
+    "options": [
+      "Los Increíbles",
+      "Del Revés (Inside Out)",
+      "Río",
+      "Buscando a Nemo"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🚢🧊❤️",
+    "options": [
+      "Rocky",
+      "Matrix",
+      "John Wick",
+      "Titanic"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🧙‍♂️⚡📚",
+    "options": [
+      "Harry Potter",
+      "El Hobbit",
+      "El Señor de los Anillos",
+      "Piratas del Caribe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🍫🏭👦",
+    "options": [
+      "Barbie",
+      "Super Mario Bros: La Película",
+      "Wonka",
+      "Charlie y la Fábrica de Chocolate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🦖🏝️🚨",
+    "options": [
+      "Terminator",
+      "Jurassic Park",
+      "Rocky",
+      "Indiana Jones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "👻🚫🏙️",
+    "options": [
+      "Cazafantasmas",
+      "Los Locos Addams",
+      "It",
+      "Alien"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🤖❤️🌱",
+    "options": [
+      "WALL-E",
+      "Toy Story",
+      "Los Minions",
+      "Trolls"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🐭🍳👨‍🍳",
+    "options": [
+      "Río",
+      "Bob Esponja: La Película",
+      "Indomable (Brave)",
+      "Ratatouille"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "❄️👸⛄",
+    "options": [
+      "Vaiana",
+      "Frozen",
+      "Pinocho",
+      "Blancanieves"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🦇🃏🌃",
+    "options": [
+      "Los Vengadores",
+      "Batman",
+      "Thor",
+      "Spider-Man"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🧟‍♂️🚶‍♂️🩸",
+    "options": [
+      "The Walking Dead",
+      "Hotel Transylvania",
+      "El Extraño Mundo de Jack",
+      "Cazafantasmas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🐒🐯🌴",
+    "options": [
+      "Encanto",
+      "La Sirenita",
+      "El Libro de la Selva",
+      "Coco"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🦈🌊😱",
+    "options": [
+      "Hotel Transylvania",
+      "Cazafantasmas",
+      "It",
+      "Tiburón"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "⚔️🚀🌌",
+    "options": [
+      "Star Wars",
+      "Harry Potter",
+      "El Hobbit",
+      "Piratas del Caribe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🐴🔫🍝",
+    "options": [
+      "E.T. el Extraterrestre",
+      "Jurassic Park",
+      "El Padrino",
+      "Karate Kid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🥊🇺🇸🏆",
+    "options": [
+      "Rocky",
+      "Jurassic Park",
+      "John Wick",
+      "El Padrino"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🏃‍♂️🍫📦",
+    "options": [
+      "Forrest Gump",
+      "Regreso al Futuro",
+      "Rápidos y Furiosos",
+      "E.T. el Extraterrestre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "💊🕶️🖥️",
+    "options": [
+      "Karate Kid",
+      "Terminator",
+      "Matrix",
+      "Misión Imposible"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🤠🚀🧸",
+    "options": [
+      "Wreck-It Ralph: Rompe Ralph",
+      "Toy Story",
+      "La Era de Hielo",
+      "Madagascar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🟢🐴🏰",
+    "options": [
+      "Up",
+      "Kung Fu Panda",
+      "Shrek",
+      "Toy Story"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "👨‍👩‍👧‍👦🦸‍♂️🦸‍♀️",
+    "options": [
+      "Los Increíbles",
+      "Río",
+      "Wreck-It Ralph: Rompe Ralph",
+      "Mi Villano Favorito"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🚗🏁🔧",
+    "options": [
+      "Sing",
+      "Cars",
+      "Shrek",
+      "Kung Fu Panda"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🎈🏠👴",
+    "options": [
+      "Los Croods",
+      "Buscando a Nemo",
+      "Del Revés (Inside Out)",
+      "Up"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "💀🎸🌼",
+    "options": [
+      "Big Hero 6",
+      "101 Dálmatas",
+      "Encanto",
+      "Coco"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🏠✨👨‍👩‍👧‍👦",
+    "options": [
+      "Encanto",
+      "El Libro de la Selva",
+      "Alicia en el País de las Maravillas",
+      "Pocahontas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🌊⛵🐔",
+    "options": [
+      "Vaiana",
+      "Peter Pan",
+      "La Bella y la Bestia",
+      "Tarzán"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🧞‍♂️🕌🪔",
+    "options": [
+      "Mulán",
+      "Bambi",
+      "Peter Pan",
+      "Aladdín"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🧜‍♀️🐚🌊",
+    "options": [
+      "Alicia en el País de las Maravillas",
+      "La Sirenita",
+      "Zootrópolis",
+      "Mulán"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🌹🏰🦁",
+    "options": [
+      "La Bella y la Bestia",
+      "Bambi",
+      "Enredados",
+      "Blancanieves"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🐉⚔️👧",
+    "options": [
+      "La Bella y la Bestia",
+      "La Sirenita",
+      "Aladdín",
+      "Mulán"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🍃🏹🌳",
+    "options": [
+      "Frozen",
+      "Tarzán",
+      "Pocahontas",
+      "Blancanieves"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "💪⚡🏛️",
+    "options": [
+      "Vaiana",
+      "Frozen",
+      "La Cenicienta",
+      "Hércules"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🌴🦍👨",
+    "options": [
+      "Peter Pan",
+      "Tarzán",
+      "Coco",
+      "Pinocho"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🐕🎩⚫⚪",
+    "options": [
+      "La Sirenita",
+      "Frozen",
+      "101 Dálmatas",
+      "Peter Pan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🐘👂✈️",
+    "options": [
+      "Aladdín",
+      "La Bella y la Bestia",
+      "Dumbo",
+      "Big Hero 6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🦌🌲🍂",
+    "options": [
+      "Bambi",
+      "Coco",
+      "Blancanieves",
+      "Aladdín"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🤥👃🪵",
+    "options": [
+      "Pinocho",
+      "Encanto",
+      "La Bella y la Bestia",
+      "La Sirenita"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🧚‍♂️🏴‍☠️🛫",
+    "options": [
+      "Peter Pan",
+      "101 Dálmatas",
+      "Pocahontas",
+      "Aladdín"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🐇⏰🎩",
+    "options": [
+      "Encanto",
+      "Alicia en el País de las Maravillas",
+      "Mulán",
+      "Pinocho"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "👠🎃🕛",
+    "options": [
+      "La Cenicienta",
+      "101 Dálmatas",
+      "Aladdín",
+      "Alicia en el País de las Maravillas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🍎👑7️⃣",
+    "options": [
+      "Blancanieves",
+      "Vaiana",
+      "101 Dálmatas",
+      "Hércules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "💇‍♀️🏰🕯️",
+    "options": [
+      "Enredados",
+      "Frozen",
+      "Alicia en el País de las Maravillas",
+      "Mulán"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🤖⚪❤️",
+    "options": [
+      "La Cenicienta",
+      "Frozen",
+      "Big Hero 6",
+      "La Bella y la Bestia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🐰🦊🏙️",
+    "options": [
+      "Coco",
+      "La Bella y la Bestia",
+      "Hércules",
+      "Zootrópolis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "😀😢😡🧠",
+    "options": [
+      "WALL-E",
+      "El Grinch",
+      "Wreck-It Ralph: Rompe Ralph",
+      "Del Revés (Inside Out)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🏹👧🐻",
+    "options": [
+      "El Grinch",
+      "Indomable (Brave)",
+      "Los Increíbles",
+      "Mi Villano Favorito"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "👹🚪⚡",
+    "options": [
+      "Shrek",
+      "Ratatouille",
+      "Monstruos S.A.",
+      "Sing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🐼🥋🥋",
+    "options": [
+      "Trolls",
+      "Kung Fu Panda",
+      "WALL-E",
+      "Toy Story"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🦁🦓🏝️",
+    "options": [
+      "Wreck-It Ralph: Rompe Ralph",
+      "Cars",
+      "Madagascar",
+      "Los Croods"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🐿️🌰🧊",
+    "options": [
+      "La Era de Hielo",
+      "Wreck-It Ralph: Rompe Ralph",
+      "Ratatouille",
+      "Up"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🟡👓🍌",
+    "options": [
+      "Shrek",
+      "Wreck-It Ralph: Rompe Ralph",
+      "Los Minions",
+      "Ratatouille"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "😈🟡👧",
+    "options": [
+      "Cars",
+      "Ratatouille",
+      "Mi Villano Favorito",
+      "Monstruos S.A."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🐨🎤🎶",
+    "options": [
+      "Kung Fu Panda",
+      "Sing",
+      "Wreck-It Ralph: Rompe Ralph",
+      "Buscando a Nemo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🌈💇‍♂️🎶",
+    "options": [
+      "Trolls",
+      "Monstruos S.A.",
+      "WALL-E",
+      "La Era de Hielo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "💚🎄😠",
+    "options": [
+      "Cars",
+      "Shrek",
+      "Los Increíbles",
+      "El Grinch"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🦸‍♂️🦸‍♀️🌍",
+    "options": [
+      "Deadpool",
+      "Batman",
+      "Black Panther",
+      "Los Vengadores"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🤖❤️✈️",
+    "options": [
+      "Iron Man",
+      "Deadpool",
+      "Capitán América",
+      "Thor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🔨⚡👨",
+    "options": [
+      "El Increíble Hulk",
+      "Thor",
+      "Deadpool",
+      "Aquaman"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🛡️🇺🇸🦅",
+    "options": [
+      "Capitán América",
+      "X-Men",
+      "El Increíble Hulk",
+      "Guardianes de la Galaxia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🐆👑🌍",
+    "options": [
+      "Batman",
+      "Iron Man",
+      "Black Panther",
+      "Deadpool"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🦝🌳🚀",
+    "options": [
+      "El Increíble Hulk",
+      "Superman",
+      "Aquaman",
+      "Guardianes de la Galaxia"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🧙‍♂️⏳🔮",
+    "options": [
+      "Doctor Strange",
+      "Superman",
+      "Los Vengadores",
+      "Deadpool"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🐜🤏🦸‍♂️",
+    "options": [
+      "Superman",
+      "Doctor Strange",
+      "Ant-Man",
+      "Deadpool"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🧬🦸‍♂️🦸‍♀️",
+    "options": [
+      "Ant-Man",
+      "Spider-Man",
+      "Los Vengadores",
+      "X-Men"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🔴⚔️😜",
+    "options": [
+      "Deadpool",
+      "Aquaman",
+      "Batman",
+      "Thor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🦸‍♂️🔵🔴",
+    "options": [
+      "Iron Man",
+      "Ant-Man",
+      "Superman",
+      "Doctor Strange"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🦸‍♀️🛡️⭐",
+    "options": [
+      "Aquaman",
+      "X-Men",
+      "Thor",
+      "Wonder Woman"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🔱🌊🧜‍♂️",
+    "options": [
+      "Guardianes de la Galaxia",
+      "X-Men",
+      "Spider-Man",
+      "Aquaman"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "💚💪😡",
+    "options": [
+      "Batman",
+      "Ant-Man",
+      "El Increíble Hulk",
+      "Black Panther"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "💍🌋🧙‍♂️",
+    "options": [
+      "Harry Potter",
+      "El Hobbit",
+      "El Señor de los Anillos",
+      "Star Wars"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🏠👣🐉",
+    "options": [
+      "El Señor de los Anillos",
+      "El Hobbit",
+      "Piratas del Caribe",
+      "Star Wars"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🏴‍☠️⚓🦜",
+    "options": [
+      "Harry Potter",
+      "Piratas del Caribe",
+      "El Señor de los Anillos",
+      "El Hobbit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🤠🐍💎",
+    "options": [
+      "E.T. el Extraterrestre",
+      "Matrix",
+      "Indiana Jones",
+      "Rocky"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🚗⚡⏰",
+    "options": [
+      "Regreso al Futuro",
+      "Matrix",
+      "E.T. el Extraterrestre",
+      "Rápidos y Furiosos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🥋🖐️🇯🇵",
+    "options": [
+      "Karate Kid",
+      "Matrix",
+      "Indiana Jones",
+      "Rocky"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🚗🏎️👨‍👩‍👧‍👦",
+    "options": [
+      "Rápidos y Furiosos",
+      "Forrest Gump",
+      "Titanic",
+      "Matrix"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🕵️‍♂️💣🎭",
+    "options": [
+      "Misión Imposible",
+      "Matrix",
+      "Regreso al Futuro",
+      "El Padrino"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🍸🔫🎩",
+    "options": [
+      "Titanic",
+      "E.T. el Extraterrestre",
+      "James Bond",
+      "Rápidos y Furiosos"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🐕🔫🖤",
+    "options": [
+      "Forrest Gump",
+      "Jurassic Park",
+      "Karate Kid",
+      "John Wick"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🤖👁️🕶️",
+    "options": [
+      "Misión Imposible",
+      "Regreso al Futuro",
+      "Indiana Jones",
+      "Terminator"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "👽🚲🌕",
+    "options": [
+      "El Padrino",
+      "E.T. el Extraterrestre",
+      "Jurassic Park",
+      "Titanic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "👽🚀🩸",
+    "options": [
+      "Coraline",
+      "El Conjuro",
+      "It",
+      "Alien"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "👽🌴🔫",
+    "options": [
+      "Depredador",
+      "The Walking Dead",
+      "Coraline",
+      "Tiburón"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🤡🎈😱",
+    "options": [
+      "El Conjuro",
+      "Hotel Transylvania",
+      "El Extraño Mundo de Jack",
+      "It"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "👻🏚️✝️",
+    "options": [
+      "El Conjuro",
+      "Depredador",
+      "Los Locos Addams",
+      "Coraline"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🧵👁️🔘",
+    "options": [
+      "Cazafantasmas",
+      "El Extraño Mundo de Jack",
+      "The Walking Dead",
+      "Coraline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🎃🎄💀",
+    "options": [
+      "It",
+      "Tiburón",
+      "El Extraño Mundo de Jack",
+      "Alien"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🖤🕷️🏚️",
+    "options": [
+      "Hotel Transylvania",
+      "Depredador",
+      "The Walking Dead",
+      "Los Locos Addams"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🧛‍♂️🏨🎉",
+    "options": [
+      "Depredador",
+      "Los Locos Addams",
+      "The Walking Dead",
+      "Hotel Transylvania"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "👱‍♀️💗🩴",
+    "options": [
+      "Charlie y la Fábrica de Chocolate",
+      "Los Simpson: La Película",
+      "Barbie",
+      "Sonic la Película"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🍫🎩🍭",
+    "options": [
+      "Super Mario Bros: La Película",
+      "Barbie",
+      "Los Simpson: La Película",
+      "Wonka"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🦔💙⚡",
+    "options": [
+      "Sonic la Película",
+      "Super Mario Bros: La Película",
+      "Los Simpson: La Película",
+      "Barbie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🍄👨🔧",
+    "options": [
+      "Super Mario Bros: La Película",
+      "Barbie",
+      "Sonic la Película",
+      "Charlie y la Fábrica de Chocolate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "💛🍩📺",
+    "options": [
+      "Wonka",
+      "Super Mario Bros: La Película",
+      "Charlie y la Fábrica de Chocolate",
+      "Los Simpson: La Película"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "clue": "🪨👨‍👩‍👧‍👦🦖",
+    "options": [
+      "Del Revés (Inside Out)",
+      "Bob Esponja: La Película",
+      "Los Croods",
+      "Shrek"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "clue": "🦜💙🎶",
+    "options": [
+      "Toy Story",
+      "Río",
+      "WALL-E",
+      "Buscando a Nemo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "clue": "🧽🍍🦀",
+    "options": [
+      "Bob Esponja: La Película",
+      "Mi Villano Favorito",
+      "Shrek",
+      "Río"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "clue": "🕹️👊🍭",
+    "options": [
+      "Mi Villano Favorito",
+      "Sing",
+      "WALL-E",
+      "Wreck-It Ralph: Rompe Ralph"
+    ],
+    "correctIndex": 3
+  }
+]
